@@ -3,10 +3,10 @@
         width="138" />
 </p>
 
-# [Quantum Chemistry Nexus](https://qchemx.github.io/)
+# Quantum Chemistry Nexus
 
 [![GitHub Actions Workflow Status](https://github.com/QChemX/qchemx.github.io/actions/workflows/build.yml/badge.svg)](https://github.com/QChemX/qchemx.github.io/blob/main/.github/workflows/build.yml)
 [![Website](https://img.shields.io/badge/website-qchemx.github.io-yellow)](https://qchemx.github.io/)
 [![GitHub License](https://img.shields.io/github/license/QChemX/qchemx.github.io)](https://github.com/QChemX/qchemx.github.io/blob/main/LICENSE)
 
-The homepage of Quantum Chemistry Nexus.
+The [homepage](https://qchemx.github.io/) of [Quantum Chemistry Nexus](https://github.com/QChemX).
