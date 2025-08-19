@@ -9,14 +9,14 @@ repo_name: qchemx.github.io
 repo_url: https://github.com/QChemX/qchemx.github.io
 
 # Copyright
-copyright: Copyright &copy; 2025 QChemX
+copyright: Copyright &copy; 2025 Quantum Chemistry Nexus
 
 # Configuration
 theme:
   name: material
   palette:
-    primary: lime
-    accent: lime
+    primary: blue
+    accent: blue
   features:
     - header.autohide
     - navigation.tracking
@@ -32,7 +32,7 @@ theme:
     # icon: school
   icon:
     repo: fontawesome/brands/github
-  favicon: assets/favicon.png # https://jdenticon.com/#icon-QChemX
+  favicon: assets/favicon.png # https://jdenticon.com/#icon-qchemx
   language: zh
   include_search_page: false
   search_index_only: true
@@ -43,9 +43,9 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/QChemX/
-  # analytics:
-  #   provider: google
-  #   property:
+  analytics:
+    provider: google
+    property: G-8E1Q3JKZRW
 
 # Extensions
 markdown_extensions:
