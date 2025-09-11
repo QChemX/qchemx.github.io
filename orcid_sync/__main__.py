@@ -62,7 +62,7 @@ def main():
 
     # 处理数据
     items = process_orcid(args.orcid, crossref=args.crossref)
-    md_content = render_markdown(args.orcid, items)
+    md_content = render_markdown(items)
 
     # 写入文件
     with open(args.out, "w", encoding="utf-8") as f:
