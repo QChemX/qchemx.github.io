@@ -89,4 +89,5 @@ nav:
   - Home: index.md
   - Contents:
       - Introduction: introduction.md
+      - Publications: publications.md
       - References: references.md

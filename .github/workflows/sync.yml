@@ -1,0 +1,41 @@
+name: Sync ORCID publications
+
+on:
+  schedule:
+    - cron: "0 2 * * *" # UTC 02:00 everyday
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run ORCID sync
+        env:
+          ORCID_ID: ${{ secrets.ORCID_ID }}
+        run: |
+          python -m orcid_sync "$ORCID_ID" --crossref
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/publications.md
+          git commit -m "Update publications from ORCID" || echo "No changes to commit"
+          git push
