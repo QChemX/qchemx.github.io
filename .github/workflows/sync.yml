@@ -40,5 +40,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add docs/publications.md
-          git commit -m "Update publications from ORCID" || echo "No changes to commit"
-          git push
+          git commit -m "[orcid sync] Update publications" || echo "No changes to commit"
+          git push origin main
