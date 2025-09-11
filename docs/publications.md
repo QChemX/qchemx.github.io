@@ -196,6 +196,22 @@ This page was generated automatically.
 
 ---
 
+### Simultaneously mastering operando strain and reconstruction effects via phase-segregation strategy for enhanced oxygen-evolving electrocatalysis
+
+**Authors:** Unknown  
+
+**Journal:** Journal of Energy Chemistry  
+
+**Published Date:** 2023-07  
+
+**DOI:** [10.1016/j.jechem.2023.03.033](https://doi.org/10.1016/j.jechem.2023.03.033)  
+
+**Citation Link:** [https://doi.org/10.1016/j.jechem.2023.03.033](https://doi.org/10.1016/j.jechem.2023.03.033)  
+
+
+
+---
+
 ### The Dual‐Site Adsorption and High Redox Activity Enabled by Hybrid Organic‐Inorganic Vanadyl Ethylene Glycolate for High‐Rate and Long‐Durability Lithium–Sulfur Batteries
 
 **Authors:** Wei Xiao, Gundegowda Kalligowdanadoddi Kiran, Kisoo Yoo, Jong‐Hoon Kim, Hengyue Xu  
@@ -228,6 +244,22 @@ This page was generated automatically.
 
 ---
 
+### Mesoporous Poly(3,4-ethylenedioxythiophene):Poly(styrenesulfonate) as Efficient Iodine Host for High-Performance Zinc–Iodine Batteries
+
+**Authors:** Unknown  
+
+**Journal:** ACS Nano  
+
+**Published Date:** 2023-10-24  
+
+**DOI:** [10.1021/acsnano.3c07868](https://doi.org/10.1021/acsnano.3c07868)  
+
+**Citation Link:** [https://doi.org/10.1021/acsnano.3c07868](https://doi.org/10.1021/acsnano.3c07868)  
+
+
+
+---
+
 ### 2D Mesoporous Naphthalene‐Based Conductive Heteroarchitectures toward Long‐Life, High‐Capacity Zinc‐Iodine Batteries
 
 **Authors:** Facai Wei, Tingting Zhang, Hengyue Xu, Yonghui Peng, Haitao Guo, Yuexi Wang, Shaojian Guan, Jianwei Fu, Chengbin Jing, Jiangong Cheng, Shaohua Liu  
@@ -244,22 +276,6 @@ This page was generated automatically.
 
 ---
 
-### Mesoporous Poly(3,4-ethylenedioxythiophene):Poly(styrenesulfonate) as Efficient Iodine Host for High-Performance Zinc–Iodine Batteries
-
-**Authors:** Facai Wei, Hengyue Xu, Tingting Zhang, Wenda Li, Lingyan Huang, Yonghui Peng, Haitao Guo, Yuexi Wang, Shaojian Guan, Jianwei Fu, Chengbin Jing, Jiangong Cheng, Shaohua Liu  
-
-**Journal:** ACS Nano  
-
-**Published Date:** 2023-10-5  
-
-**DOI:** [10.1021/acsnano.3c07868](https://doi.org/10.1021/acsnano.3c07868)  
-
-**Citation Link:** [https://doi.org/10.1021/acsnano.3c07868](https://doi.org/10.1021/acsnano.3c07868)  
-
-
-
----
-
 ### Detection and treatment of biofilm-induced periodontitis by histidine-doped FeSN nanozyme with ultra-high peroxidase-like activity
 
 **Authors:** Bowen Shen, Lei Yang, Hengyue Xu, Yangheng Zhang, Dengming Ming, Liying Zhu, Yuxian Wang, Ling Jiang  
@@ -271,6 +287,22 @@ This page was generated automatically.
 **DOI:** [10.1016/j.jcis.2023.06.188](https://doi.org/10.1016/j.jcis.2023.06.188)  
 
 **Citation Link:** [https://doi.org/10.1016/j.jcis.2023.06.188](https://doi.org/10.1016/j.jcis.2023.06.188)  
+
+
+
+---
+
+### Theoretical Design of Core–Shell 3d-Metal Nanoclusters for Efficient Hydrogen-Evolving Reaction
+
+**Authors:** Unknown  
+
+**Journal:** Energy & Fuels  
+
+**Published Date:** 2023-11-02  
+
+**DOI:** [10.1021/acs.energyfuels.3c02448](https://doi.org/10.1021/acs.energyfuels.3c02448)  
+
+**Citation Link:** [https://doi.org/10.1021/acs.energyfuels.3c02448](https://doi.org/10.1021/acs.energyfuels.3c02448)  
 
 
 
@@ -340,22 +372,6 @@ This page was generated automatically.
 
 ---
 
-### Simultaneously mastering operando strain and reconstruction effects via phase-segregation strategy for enhanced oxygen-evolving electrocatalysis
-
-**Authors:** Daqin Guan, Chenliang Shi, Hengyue Xu, Yuxing Gu, Jian Zhong, Yuchen Sha, Zhiwei Hu, Meng Ni, Zongping Shao  
-
-**Journal:** Journal of Energy Chemistry  
-
-**Published Date:** 2023-7  
-
-**DOI:** [10.1016/j.jechem.2023.03.033](https://doi.org/10.1016/j.jechem.2023.03.033)  
-
-**Citation Link:** [https://doi.org/10.1016/j.jechem.2023.03.033](https://doi.org/10.1016/j.jechem.2023.03.033)  
-
-
-
----
-
 ### Tuning electron delocalization of hydrogen-bonded organic framework cathode for high-performance zinc-organic batteries
 
 **Authors:** Wenda Li, Hengyue Xu, Hongyi Zhang, Facai Wei, Lingyan Huang, Shanzhe Ke, Jianwei Fu, Chengbin Jing, Jiangong Cheng, Shaohua Liu  
@@ -407,22 +423,6 @@ This page was generated automatically.
 
 ---
 
-### Theoretical Design of Core–Shell 3d-Metal Nanoclusters for Efficient Hydrogen-Evolving Reaction
-
-**Authors:** Hengyue Xu, Jonic Zhehao Zhu, Changhong Zou, Fupeng Zhang, Dengming Ming, Daqin Guan, Lan Ma  
-
-**Journal:** Energy & Fuels  
-
-**Published Date:** 2023-9-28  
-
-**DOI:** [10.1021/acs.energyfuels.3c02448](https://doi.org/10.1021/acs.energyfuels.3c02448)  
-
-**Citation Link:** [https://doi.org/10.1021/acs.energyfuels.3c02448](https://doi.org/10.1021/acs.energyfuels.3c02448)  
-
-
-
----
-
 ### A dynamically stable self-assembled CoFe (oxy)hydroxide-based nanocatalyst with boosted electrocatalytic performance for the oxygen-evolution reaction
 
 **Authors:** Ming Zhu, Hengyue Xu, Jie Dai, Daqin Guan, Zhiwei Hu, Sixuan She, Chien-Te Chen, Ran Ran, Wei Zhou, Zongping Shao  
@@ -434,22 +434,6 @@ This page was generated automatically.
 **DOI:** [10.1039/d4ta01848f](https://doi.org/10.1039/d4ta01848f)  
 
 **Citation Link:** [https://doi.org/10.1039/d4ta01848f](https://doi.org/10.1039/d4ta01848f)  
-
-
-
----
-
-### An atomically dispersed Pt/γ-Mo2N(O0.3) catalyst for hydrogen production via aqueous-phase reforming of methanol
-
-**Authors:** José Sousa, Paranjeet Lakhtaria, Paulo Ribeirinha, Werneri Huhtinen, Johan Tallgren, Adélio Mendes  
-
-**Journal:** Green Chemistry  
-
-**Published Date:** 2024-10-21  
-
-**DOI:** [10.3390/catal14100741](https://doi.org/10.3390/catal14100741)  
-
-**Citation Link:** [https://doi.org/10.1039/D5GC02092A](https://doi.org/10.1039/D5GC02092A)  
 
 
 
@@ -530,22 +514,6 @@ This page was generated automatically.
 **DOI:** [10.1021/acsnano.4c10348](https://doi.org/10.1021/acsnano.4c10348)  
 
 **Citation Link:** [https://doi.org/10.1021/acsnano.4c10348](https://doi.org/10.1021/acsnano.4c10348)  
-
-
-
----
-
-### Calcium Carbonate as an Ionic Molecular Lock for Ultrastrong Fluorescence of Single Organic Molecules
-
-**Authors:** Jian Zhang, Hengyue Xu, Weifeng Fang, Xin Liu, Haoke Zhang, Ruikang Tang, Zhaoming Liu  
-
-**Journal:** Angewandte Chemie International Edition  
-
-**Published Date:** 2024-11-16  
-
-**DOI:** [10.1002/anie.202415664](https://doi.org/10.1002/anie.202415664)  
-
-**Citation Link:** [https://doi.org/10.1002/anie.202415664](https://doi.org/10.1002/anie.202415664)  
 
 
 
@@ -655,7 +623,7 @@ This page was generated automatically.
 
 **Published Date:** 2024-4-4  
 
-**DOI:** [10.1002/ange.202401386](https://doi.org/10.1002/ange.202401386)  
+**DOI:** [10.1002/anie.202401386](https://doi.org/10.1002/anie.202401386)  
 
 **Citation Link:** [https://doi.org/10.1002/anie.202401386](https://doi.org/10.1002/anie.202401386)  
 
@@ -887,6 +855,22 @@ This page was generated automatically.
 
 ---
 
+### An atomically dispersed Pt/γ-Mo2N(O0.3) catalyst for hydrogen production via aqueous-phase reforming of methanol
+
+**Authors:** Unknown  
+
+**Journal:** Green Chemistry  
+
+**Published Date:** 2025  
+
+**DOI:** [10.1039/D5GC02092A](https://doi.org/10.1039/D5GC02092A)  
+
+**Citation Link:** [https://doi.org/10.1039/D5GC02092A](https://doi.org/10.1039/D5GC02092A)  
+
+
+
+---
+
 ### Interfacial supramolecular interactions regulated oligomer networking into robust sub-nanochannels for efficient osmotic energy conversion
 
 **Authors:** Gang Lu, Hubao A, Hengyue Xu, Yan Zhao, Yuanyuan Zhao, Huacheng Zhang, Raf Dewil, Bart Van der Bruggen, Shuang Zheng  
@@ -914,6 +898,38 @@ This page was generated automatically.
 **DOI:** [10.1039/d5cc03153b](https://doi.org/10.1039/d5cc03153b)  
 
 **Citation Link:** [https://doi.org/10.1039/D5CC03153B](https://doi.org/10.1039/D5CC03153B)  
+
+
+
+---
+
+### Calcium Carbonate as an Ionic Molecular Lock for Ultrastrong Fluorescence of Single Organic Molecules
+
+**Authors:** Unknown  
+
+**Journal:** Angewandte Chemie International Edition  
+
+**Published Date:** 2025-01-15  
+
+**DOI:** [10.1002/anie.202415664](https://doi.org/10.1002/anie.202415664)  
+
+**Citation Link:** [https://doi.org/10.1002/anie.202415664](https://doi.org/10.1002/anie.202415664)  
+
+
+
+---
+
+### Atomic dispersion of Ag on Mn2O3 for soot catalytic oxidation: Dispersion mechanism and catalytic intermediate identification
+
+**Authors:** Unknown  
+
+**Journal:** Materials Today Nano  
+
+**Published Date:** 2025-03  
+
+**DOI:** [10.1016/j.mtnano.2025.100597](https://doi.org/10.1016/j.mtnano.2025.100597)  
+
+**Citation Link:** [https://doi.org/10.1016/j.mtnano.2025.100597](https://doi.org/10.1016/j.mtnano.2025.100597)  
 
 
 
@@ -1074,22 +1090,6 @@ This page was generated automatically.
 **DOI:** [10.1016/j.mtnano.2025.100597](https://doi.org/10.1016/j.mtnano.2025.100597)  
 
 **Citation Link:** [https://doi.org/10.1016/J.MTNANO.2025.100597](https://doi.org/10.1016/J.MTNANO.2025.100597)  
-
-
-
----
-
-### Atomic dispersion of Ag on Mn2O3 for soot catalytic oxidation: Dispersion mechanism and catalytic intermediate identification
-
-**Authors:** Qian Lv, Baofang Jin, Hengyue Xu, Xiaodong Wu, Ningqiang Zhang, Dawei Pang, Ang Li, Xiaodong Han  
-
-**Journal:** Materials Today Nano  
-
-**Published Date:** 2025-3  
-
-**DOI:** [10.1016/j.mtnano.2025.100597](https://doi.org/10.1016/j.mtnano.2025.100597)  
-
-**Citation Link:** [https://doi.org/10.1016/j.mtnano.2025.100597](https://doi.org/10.1016/j.mtnano.2025.100597)  
 
 
 
