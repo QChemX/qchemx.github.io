@@ -2,8 +2,11 @@ name: Sync ORCID publications
 
 on:
   schedule:
-    - cron: "0 2 * * *" # UTC 02:00 everyday
-  workflow_dispatch: {}
+    - cron: "0 2 * * *" # 每天 UTC 02:00 自动运行
+  push:
+    branches:
+      - main # 当 main 分支有新提交时触发
+  workflow_dispatch: {} # 手动触发
 
 permissions:
   contents: write
