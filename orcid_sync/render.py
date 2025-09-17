@@ -5,16 +5,22 @@ WIP
 """
 
 
-def render_markdown(items):
-    """生成卡片布局的 Markdown 文档"""
+def render_markdown(items: list) -> str:
+    """
+    Generate the Markdown document.
+    """
     md = [
         "# Publications\n\n",
         "This page was generated automatically.\n\n",
     ]
 
     for it in items:
-        authors = ", ".join(it.get("authors", [])) if it.get("authors") else "Unknown"
-        md.append("---\n")  # 卡片分隔线
+        authors = (
+            ", ".join(it.get("authors", []))
+            if it.get("authors")
+            else "Unknown"
+        )
+        md.append("---\n")  # dividers
         md.append(f"### {it['title']}\n")
         md.append(f"**Authors:** {authors}  \n")
         if it.get("journal"):
@@ -29,6 +35,11 @@ def render_markdown(items):
             )
         if it.get("abstract"):
             md.append(f"\n**Abstract:** {it['abstract']}\n")
-        md.append("\n")  # 卡片底部空行
+        md.append("\n")  # one blank line at the bottom of each part
 
     return "\n".join(md)
+
+
+if __name__ == "__main__":
+
+    print(__file__)

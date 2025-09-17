@@ -4,9 +4,14 @@
 WIP
 """
 
+from typing import Any
 
-def extract_from_work_json(work_json):
-    """解析 ORCID 返回的作品 JSON，提取基础信息"""
+
+def extract_from_work_json(work_json: Any) -> dict:
+    """
+    Parse the work JSON returned by ORCID
+    and extract basic information.
+    """
     title = work_json.get("title", {}).get("title", {}).get("value", "No title")
     abstract = work_json.get("short-description") or ""
 
@@ -20,16 +25,20 @@ def extract_from_work_json(work_json):
             break
 
     # URL
-    url = work_json.get("url", {}).get("value") if work_json.get("url") else None
+    url = (
+        work_json.get("url", {}).get("value")
+        if work_json.get("url")
+        else None
+    )
 
-    # 期刊
+    # journal
     journal = None
     if isinstance(work_json.get("journal-title"), dict):
         journal = work_json["journal-title"].get("value")
     else:
         journal = work_json.get("journal-title")
 
-    # 发表日期
+    # published date
     publication_date = None
     if "publication-date" in work_json:
         date_parts = [
@@ -52,9 +61,16 @@ def extract_from_work_json(work_json):
     }
 
 
-def merge_crossref_data(orcid_data, crossref_data):
-    """合并 ORCID 和 Crossref 的数据"""
+def merge_crossref_data(orcid_data: dict, crossref_data: dict) -> dict:
+    """
+    Merge ORCID and Crossref data.
+    """
     for key in ["doi", "publisher", "url", "authors", "publication_date"]:
         if crossref_data.get(key):
             orcid_data[key] = crossref_data[key]
     return orcid_data
+
+
+if __name__ == "__main__":
+
+    print(__file__)
