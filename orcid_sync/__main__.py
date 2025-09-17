@@ -11,9 +11,14 @@ from .api import fetch_work_detail, fetch_works, try_crossref_fill
 from .data import extract_from_work_json, merge_crossref_data
 from .render import render_markdown
 
+__version__ = "0.2.0"
 
-def process_orcid(orcid, crossref=False):
-    """处理 ORCID 作品数据，返回整理后的列表"""
+
+def process_orcid(orcid: str, crossref: bool = False) -> list:
+    """
+    Process ORCID work data
+    and return a collated list.
+    """
     print("Fetching works list...")
     works_json = fetch_works(orcid)
     groups = works_json.get("group", [])
@@ -29,45 +34,77 @@ def process_orcid(orcid, crossref=False):
                 print(f"Failed to fetch detail for put-code {put_code}: {e}")
                 continue
 
-            # 解析 ORCID 基础数据
+            # parse ORCID basic data
             data = extract_from_work_json(detail.get("work", detail))
 
-            # 如果启用 Crossref，尝试补充信息
+            # If Crossref is enabled,
+            # try supplementing the information.
             if crossref and data.get("title"):
                 cr = try_crossref_fill(data["title"])
                 if cr:
                     data = merge_crossref_data(data, cr)
 
             items.append(data)
-            time.sleep(0.2)  # 防止请求过快
+            time.sleep(0.2)  # prevent too fast requests
 
-    # 按发表日期排序（如果无日期则排在最后）
-    return sorted(items, key=lambda x: x.get("publication_date") or "", reverse=True)
+    # sort by published date
+    # in descending order (newest to oldest)
+    return sorted(
+        items,
+        key=lambda x: x.get("publication_date") or "",
+        reverse=True
+    )
 
 
-def main():
+def main() -> None:
+    """
+    The main function.
+    """
     parser = argparse.ArgumentParser(
-        description="Sync ORCID works to mkdocs markdown with card layout"
-    )
-    parser.add_argument("orcid", help="ORCID iD, e.g. 0000-0002-1825-0097")
-    parser.add_argument(
-        "--out", default="docs/publications.md", help="Output markdown file"
+        prog="orcid_sync",
+        description="Sync ORCID works to mkdocs Markdown files.",
+        formatter_class=argparse.RawTextHelpFormatter
     )
     parser.add_argument(
+        "orcid",
+        nargs="?",
+        type=str,
+        help="ORCID ID, e.g. 0009-0004-9233-6237"
+    )
+    parser.add_argument(
+        "-o",
+        "--out",
+        default="docs/publications.md",
+        type=str,
+        help="The output Markdown file."
+    )
+    parser.add_argument(
+        "-c",
         "--crossref",
         action="store_true",
-        help="Try to fill missing data using Crossref",
+        help="Try to fill missing data using Crossref."
     )
-    args = parser.parse_args()
+    parser.add_argument(
+        "-v",
+        "--version",
+        action="version",
+        help="Print the version number of %(prog)s and exit.",
+        version=f"%(prog)s {__version__}"
+    )
 
-    # 处理数据
-    items = process_orcid(args.orcid, crossref=args.crossref)
+    command_args = parser.parse_args()
+
+    # process data
+    items = process_orcid(
+        command_args.orcid,
+        crossref=command_args.crossref
+    )
     md_content = render_markdown(items)
 
-    # 写入文件
-    with open(args.out, "w", encoding="utf-8") as f:
-        f.write(md_content)
-    print(f"Wrote {args.out}")
+    # write to a file
+    with open(command_args.out, "w", encoding="utf-8") as file_object:
+        file_object.write(md_content)
+    print(f"Wrote {command_args.out}")
 
 
 if __name__ == "__main__":
