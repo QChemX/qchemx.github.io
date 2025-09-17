@@ -42,7 +42,7 @@ def process_orcid(orcid, crossref=False):
             time.sleep(0.2)  # 防止请求过快
 
     # 按发表日期排序（如果无日期则排在最后）
-    return sorted(items, key=lambda x: x.get("publication_date") or "")
+    return sorted(items, key=lambda x: x.get("publication_date") or "", reverse=True)
 
 
 def main():
