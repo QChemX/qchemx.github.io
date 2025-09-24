@@ -134,6 +134,22 @@ This page was generated automatically.
 
 ---
 
+### Deciphering SN2-Type Nucleophilic Substitution via Halogen-Free Intermediates for High-Energy Zinc–Iodine Batteries
+
+**Authors:** Zhehan Yi, Hengyue Xu, Jin-Lin Yang, Jia Li, Tao Xiao, Hao Chen, Cheng Jiang, Hong Li, Seok Woo Lee, Hong Jin Fan  
+
+**Journal:** Journal of the American Chemical Society  
+
+**Published Date:** 2025-7-22  
+
+**DOI:** [10.1021/jacs.5c08469](https://doi.org/10.1021/jacs.5c08469)  
+
+**Citation Link:** [https://doi.org/10.1021/jacs.5c08469](https://doi.org/10.1021/jacs.5c08469)  
+
+
+
+---
+
 ### A Synchronous Strategy to Zn-Iodine Battery by Polycationic Long-Chain Molecules
 
 **Authors:** Da-Qian Cai, Hengyue Xu, Tong Xue, Jin-Lin Yang, Hong Jin Fan  
@@ -401,22 +417,6 @@ This page was generated automatically.
 **DOI:** [10.1016/j.foodchem.2024.141387](https://doi.org/10.1016/j.foodchem.2024.141387)  
 
 **Citation Link:** [https://doi.org/10.1016/j.foodchem.2024.141387](https://doi.org/10.1016/j.foodchem.2024.141387)  
-
-
-
----
-
-### Deciphering SN2-Type Nucleophilic Substitution via Halogen-Free Intermediates for High-Energy Zinc–Iodine Batteries
-
-**Authors:** Unknown  
-
-**Journal:** Journal of the American Chemical Society  
-
-**Published Date:** 2025-07-30  
-
-**DOI:** [10.1021/jacs.5c08469](https://doi.org/10.1021/jacs.5c08469)  
-
-**Citation Link:** [https://doi.org/10.1021/jacs.5c08469](https://doi.org/10.1021/jacs.5c08469)  
 
 
 
@@ -702,7 +702,7 @@ This page was generated automatically.
 
 **Published Date:** 2024-4-4  
 
-**DOI:** [10.1002/ange.202401386](https://doi.org/10.1002/ange.202401386)  
+**DOI:** [10.1002/anie.202401386](https://doi.org/10.1002/anie.202401386)  
 
 **Citation Link:** [https://doi.org/10.1002/ange.202401386](https://doi.org/10.1002/ange.202401386)  
 
@@ -750,7 +750,7 @@ This page was generated automatically.
 
 **Published Date:** 2024-12-13  
 
-**DOI:** [10.1002/ange.202417618](https://doi.org/10.1002/ange.202417618)  
+**DOI:** [10.1002/anie.202417618](https://doi.org/10.1002/anie.202417618)  
 
 **Citation Link:** [https://doi.org/10.1002/anie.202417618](https://doi.org/10.1002/anie.202417618)  
 
@@ -881,6 +881,22 @@ This page was generated automatically.
 **DOI:** [10.1002/adfm.202417283](https://doi.org/10.1002/adfm.202417283)  
 
 **Citation Link:** [https://doi.org/10.1002/adfm.202417283](https://doi.org/10.1002/adfm.202417283)  
+
+
+
+---
+
+### An atomically dispersed Pt/γ-Mo2N(O0.3) catalyst for hydrogen production via aqueous-phase reforming of methanol
+
+**Authors:** José Sousa, Paranjeet Lakhtaria, Paulo Ribeirinha, Werneri Huhtinen, Johan Tallgren, Adélio Mendes  
+
+**Journal:** Green Chemistry  
+
+**Published Date:** 2024-10-21  
+
+**DOI:** [10.3390/catal14100741](https://doi.org/10.3390/catal14100741)  
+
+**Citation Link:** [https://doi.org/10.1039/D5GC02092A](https://doi.org/10.1039/D5GC02092A)  
 
 
 
@@ -1193,17 +1209,17 @@ This page was generated automatically.
 
 ---
 
-### An atomically dispersed Pt/γ-Mo2N(O0.3) catalyst for hydrogen production via aqueous-phase reforming of methanol
+### Combined Corner‐Sharing and Edge‐Sharing Networks in Hybrid Nanocomposite with Unusual Lattice‐Oxygen Activation for Efficient Water Oxidation
 
-**Authors:** Yang Liu, Sirui Li, Shanhui Zhu  
+**Authors:** Haijuan Zhang, Yongxin Gao, Hengyue Xu, Daqin Guan, Zhiwei Hu, Chao Jing, Yuchen Sha, Yuxing Gu, Yu‐Cheng Huang, Yu‐Chung Chang, Chi‐Wen Pao, Xiaomin Xu, Jyh‐Fu Lee, Yi‐Ying Chin, Hong‐Ji Lin, Chien‐Te Chen, Yuhui Chen, Youmin Guo, Meng Ni, Wei Zhou, Zongping Shao  
 
-**Journal:** Green Chemistry  
+**Journal:** Advanced Functional Materials  
 
-**Published Date:** 2022-8-7  
+**Published Date:** 2022-8-25  
 
-**DOI:** [10.1007/s11144-022-02275-x](https://doi.org/10.1007/s11144-022-02275-x)  
+**DOI:** [10.1002/adfm.202207618](https://doi.org/10.1002/adfm.202207618)  
 
-**Citation Link:** [https://doi.org/10.1039/D5GC02092A](https://doi.org/10.1039/D5GC02092A)  
+**Citation Link:** [https://doi.org/10.1002/adfm.202207618](https://doi.org/10.1002/adfm.202207618)  
 
 
 
@@ -1284,22 +1300,6 @@ This page was generated automatically.
 **DOI:** [10.1021/acsami.2c14041.s001](https://doi.org/10.1021/acsami.2c14041.s001)  
 
 **Citation Link:** [https://doi.org/10.1021/acsami.2c14041](https://doi.org/10.1021/acsami.2c14041)  
-
-
-
----
-
-### Combined Corner‐Sharing and Edge‐Sharing Networks in Hybrid Nanocomposite with Unusual Lattice‐Oxygen Activation for Efficient Water Oxidation
-
-**Authors:** Unknown  
-
-**Journal:** Advanced Functional Materials  
-
-**Published Date:** 2022-08-25  
-
-**DOI:** [10.1002/adfm.202207618](https://doi.org/10.1002/adfm.202207618)  
-
-**Citation Link:** [https://doi.org/10.1002/adfm.202207618](https://doi.org/10.1002/adfm.202207618)  
 
 
 
