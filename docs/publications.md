@@ -278,6 +278,22 @@ This page was generated automatically.
 
 ---
 
+### MOF Derived Phosphide Nanocubes with Internal Heterojunction: A Study Powered by Single Entity Electrochemistry
+
+**Authors:** Zilong Chen, Hengyue Xu, Tingting Chen, Jiaqi Zhang, Songtao Zhang, Long Chen, Huan Pang, Zhongjie Huang  
+
+**Journal:** Nano Letters  
+
+**Published Date:** 2025-3-17  
+
+**DOI:** [10.1021/acs.nanolett.5c00233](https://doi.org/10.1021/acs.nanolett.5c00233)  
+
+**Citation Link:** [https://doi.org/10.1021/acs.nanolett.5c00233](https://doi.org/10.1021/acs.nanolett.5c00233)  
+
+
+
+---
+
 ### MnxCo3-xO4 spinel activates peroxymonosulfate for highly effective bisphenol A degradation with ultralow catalyst and persulfate usage
 
 **Authors:** Lu-Lu Zhou, Hengyue Xu, Yi-Han Sheng, Wei-Kang Wang, Juan Xu  
@@ -454,22 +470,6 @@ This page was generated automatically.
 
 ---
 
-### MOF Derived Phosphide Nanocubes with Internal Heterojunction: A Study Powered by Single Entity Electrochemistry
-
-**Authors:** Unknown  
-
-**Journal:** Nano Letters  
-
-**Published Date:** 2025-03-26  
-
-**DOI:** [10.1021/acs.nanolett.5c00233.s001](https://doi.org/10.1021/acs.nanolett.5c00233.s001)  
-
-**Citation Link:** [https://doi.org/10.1021/acs.nanolett.5c00233](https://doi.org/10.1021/acs.nanolett.5c00233)  
-
-
-
----
-
 ### Interfacial supramolecular interactions regulated oligomer networking into robust sub-nanochannels for efficient osmotic energy conversion
 
 **Authors:** Gang Lu, Hubao A, Hengyue Xu, Yan Zhao, Yuanyuan Zhao, Huacheng Zhang, Raf Dewil, Bart Van der Bruggen, Shuang Zheng  
@@ -513,22 +513,6 @@ This page was generated automatically.
 **DOI:** [10.1016/j.cplett.2024.141492](https://doi.org/10.1016/j.cplett.2024.141492)  
 
 **Citation Link:** [https://doi.org/10.1016/j.cplett.2024.141492](https://doi.org/10.1016/j.cplett.2024.141492)  
-
-
-
----
-
-### Lattice-confined localized alloying of Bi0.67TaS2 anode enabling ultrafast and stable sodium storage up to 150 C
-
-**Authors:** Yiran Hao, Hengyue Xu, Zhuoran Lv, Xueyang Tu, Wenjing Xu, Wujie Dong, Peng Qin, Fuqiang Huang  
-
-**Journal:** Chemical Engineering Journal  
-
-**Published Date:** 2024-9  
-
-**DOI:** [10.1016/j.cej.2024.153876](https://doi.org/10.1016/j.cej.2024.153876)  
-
-**Citation Link:** [https://doi.org/10.1016/j.cej.2024.153876](https://doi.org/10.1016/j.cej.2024.153876)  
 
 
 
@@ -702,7 +686,7 @@ This page was generated automatically.
 
 **Published Date:** 2024-4-4  
 
-**DOI:** [10.1002/ange.202401386](https://doi.org/10.1002/ange.202401386)  
+**DOI:** [10.1002/anie.202401386](https://doi.org/10.1002/anie.202401386)  
 
 **Citation Link:** [https://doi.org/10.1002/anie.202401386](https://doi.org/10.1002/anie.202401386)  
 
@@ -718,7 +702,7 @@ This page was generated automatically.
 
 **Published Date:** 2024-4-4  
 
-**DOI:** [10.1002/ange.202401386](https://doi.org/10.1002/ange.202401386)  
+**DOI:** [10.1002/anie.202401386](https://doi.org/10.1002/anie.202401386)  
 
 **Citation Link:** [https://doi.org/10.1002/ange.202401386](https://doi.org/10.1002/ange.202401386)  
 
@@ -945,6 +929,22 @@ This page was generated automatically.
 **DOI:** [10.2139/ssrn.4876389](https://doi.org/10.2139/ssrn.4876389)  
 
 **Citation Link:** [https://doi.org/10.1039/D5GC02092A](https://doi.org/10.1039/D5GC02092A)  
+
+
+
+---
+
+### Lattice-confined localized alloying of Bi0.67TaS2 anode enabling ultrafast and stable sodium storage up to 150 C
+
+**Authors:** Yiran Hao, Xu Hengyue, Zhuoran Lv, Xueyang Tu, Wenjing Xu, Wujie Dong, Peng Qin, Fuqiang Huang  
+
+**Journal:** Chemical Engineering Journal  
+
+**Published Date:** 2024  
+
+**DOI:** [10.2139/ssrn.4844291](https://doi.org/10.2139/ssrn.4844291)  
+
+**Citation Link:** [https://doi.org/10.1016/j.cej.2024.153876](https://doi.org/10.1016/j.cej.2024.153876)  
 
 
 
