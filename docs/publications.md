@@ -102,22 +102,6 @@ This page was generated automatically.
 
 ---
 
-### Pd1-O-Ti dual sites for efficient electrochemical active hydrogen generation and bromate reduction
-
-**Authors:** Wei Hou, Qian Zheng, Hengyue Xu, Guangming Zhan, Long Zhao, Jie Dai, Jiaxian Wang, Xingyue Zou, Bing Zhou, Lufa Hu, Ruizhao Wang, Kaiyuan Wang, Yancai Yao, Lizhi Zhang  
-
-**Journal:** Journal of Environmental Sciences  
-
-**Published Date:** 2025-8  
-
-**DOI:** [10.1016/j.jes.2024.07.005](https://doi.org/10.1016/j.jes.2024.07.005)  
-
-**Citation Link:** [https://doi.org/10.1016/j.jes.2024.07.005](https://doi.org/10.1016/j.jes.2024.07.005)  
-
-
-
----
-
 ### Supramolecular nanocrystalline membranes with well-aligned subnanochannels for enhanced reverse osmosis desalination
 
 **Authors:** Gang Lu, Wentao Shang, Xinyao Ma, Hengyue Xu, Hubao A, Jiawei Sun, Xiaolu Li, Mingyi Jia, Shuang Lu, Jun Wu, Xi Chen, Shensheng Chen, Jun Fan, Alicia Kyoungjin An  
@@ -358,6 +342,22 @@ This page was generated automatically.
 
 ---
 
+### Enantiopure Dual-Helical Covalent Organic Framework Nanotubes Mediated by Supramolecular Assembly
+
+**Authors:** Unknown  
+
+**Journal:** Journal of the American Chemical Society  
+
+**Published Date:** 2025-11-12  
+
+**DOI:** [10.1021/jacs.5c09144.s001](https://doi.org/10.1021/jacs.5c09144.s001)  
+
+**Citation Link:** [https://doi.org/10.1021/jacs.5c09144](https://doi.org/10.1021/jacs.5c09144)  
+
+
+
+---
+
 ### Regulation of Rh Single-Atom Coordination for Enhanced Reverse Hydrogen Spillover and Efficient Electrochemical Dechlorination
 
 **Authors:** Unknown  
@@ -385,22 +385,6 @@ This page was generated automatically.
 **DOI:** [10.1038/s41467-025-63969-z](https://doi.org/10.1038/s41467-025-63969-z)  
 
 **Citation Link:** [https://doi.org/10.1038/s41467-025-63969-z](https://doi.org/10.1038/s41467-025-63969-z)  
-
-
-
----
-
-### Enantiopure Dual-Helical Covalent Organic Framework Nanotubes Mediated by Supramolecular Assembly
-
-**Authors:** Wenda Li, Hengyue Xu, Hongyi Zhang, Hao Chen, Shanzhe Ke, Gaijuan Guo, Facai Wei, Jianwei Fu, Chengbin Jing, Jiangong Cheng, Shaohua Liu  
-
-**Journal:** Journal of the American Chemical Society  
-
-**Published Date:** 2025-10-31  
-
-**DOI:** [10.1021/jacs.5c09144](https://doi.org/10.1021/jacs.5c09144)  
-
-**Citation Link:** [https://doi.org/10.1021/jacs.5c09144](https://doi.org/10.1021/jacs.5c09144)  
 
 
 
@@ -734,7 +718,7 @@ This page was generated automatically.
 
 **Published Date:** 2024-4-4  
 
-**DOI:** [10.1002/ange.202401386](https://doi.org/10.1002/ange.202401386)  
+**DOI:** [10.1002/anie.202401386](https://doi.org/10.1002/anie.202401386)  
 
 **Citation Link:** [https://doi.org/10.1002/anie.202401386](https://doi.org/10.1002/anie.202401386)  
 
@@ -886,22 +870,6 @@ This page was generated automatically.
 
 ---
 
-### Modified Zhenwu Decoction improved intestinal barrier function of experimental colitis through activation of sGC-mediated cGMP/PKG signaling
-
-**Authors:** Yiqi Xu, Chunhua Huang, Hengyue Xu, Jiaruo Xu, Ka Wing Cheng, Heung Lam Mok, Cheng Lyu, Lin Zhu, Chengyuan Lin, Hor Yue Tan, Zhaoxiang Bian  
-
-**Journal:** Journal of Ethnopharmacology  
-
-**Published Date:** 2024-11  
-
-**DOI:** [10.1016/j.jep.2024.118570](https://doi.org/10.1016/j.jep.2024.118570)  
-
-**Citation Link:** [https://doi.org/10.1016/j.jep.2024.118570](https://doi.org/10.1016/j.jep.2024.118570)  
-
-
-
----
-
 ### Optimizing entropy-stabilized synthesis kinetics to modulate the oxygen evolution mechanism
 
 **Authors:** Zeshuo Meng, Hengyue Xu, Zhengyan Du, Zijin Xu, Jian Xu, Wei Zhang, Xiaoying Hu, Haoteng Sun, Hongwei Tian, Jingsan Xu, Weitao Zheng, Sheng Dai  
@@ -934,22 +902,6 @@ This page was generated automatically.
 
 ---
 
-### An atomically dispersed Pt/γ-Mo2N(O0.3) catalyst for hydrogen production via aqueous-phase reforming of methanol
-
-**Authors:** José Sousa, Paranjeet Lakhtaria, Paulo Ribeirinha, Werneri Huhtinen, Johan Tallgren, Adélio Mendes  
-
-**Journal:** Green Chemistry  
-
-**Published Date:** 2024-10-21  
-
-**DOI:** [10.3390/catal14100741](https://doi.org/10.3390/catal14100741)  
-
-**Citation Link:** [https://doi.org/10.1039/D5GC02092A](https://doi.org/10.1039/D5GC02092A)  
-
-
-
----
-
 ### Deciphering the Nitrogen Activation Mechanisms on Group VIII Single Atoms at MoS2
 
 **Authors:** Unknown  
@@ -977,6 +929,22 @@ This page was generated automatically.
 **DOI:** [10.1021/acs.jpclett.4c00641.s001](https://doi.org/10.1021/acs.jpclett.4c00641.s001)  
 
 **Citation Link:** [https://doi.org/10.1021/acs.jpclett.4c00641](https://doi.org/10.1021/acs.jpclett.4c00641)  
+
+
+
+---
+
+### An atomically dispersed Pt/γ-Mo2N(O0.3) catalyst for hydrogen production via aqueous-phase reforming of methanol
+
+**Authors:** Paranjeet Lakhtaria, Jose Sousa, Paulo Ribeirinha, Werneri Huhtinen, Johan Tallgren, Adelio Mendes  
+
+**Journal:** Green Chemistry  
+
+**Published Date:** 2024  
+
+**DOI:** [10.2139/ssrn.4876389](https://doi.org/10.2139/ssrn.4876389)  
+
+**Citation Link:** [https://doi.org/10.1039/D5GC02092A](https://doi.org/10.1039/D5GC02092A)  
 
 
 
