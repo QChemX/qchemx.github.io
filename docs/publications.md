@@ -342,6 +342,22 @@ This page was generated automatically.
 
 ---
 
+### Luffa sponge as a sustainable reinforcement for impact-resistant cementitious composites
+
+**Authors:** Yuanzheng Lin, Chaobin Yang, Zhiyang Pei, Hengyue Xu, Yu Zhang, Jiaxing Ma, Neven Ukrainczyk, Yixia Zhang, Eduardus Koenders, Wenjie Xie, Anke Weidenkaff, Zhouhong Zong, Jingming Cai  
+
+**Journal:** Communications Materials  
+
+**Published Date:** 2025-11-17  
+
+**DOI:** [10.1038/s43246-025-00985-y](https://doi.org/10.1038/s43246-025-00985-y)  
+
+**Citation Link:** [https://doi.org/10.1038/s43246-025-00985-y](https://doi.org/10.1038/s43246-025-00985-y)  
+
+
+
+---
+
 ### Regulation of Rh Single-Atom Coordination for Enhanced Reverse Hydrogen Spillover and Efficient Electrochemical Dechlorination
 
 **Authors:** Unknown  
@@ -934,6 +950,22 @@ This page was generated automatically.
 
 ---
 
+### An atomically dispersed Pt/γ-Mo2N(O0.3) catalyst for hydrogen production via aqueous-phase reforming of methanol
+
+**Authors:** Paranjeet Lakhtaria, Jose Sousa, Paulo Ribeirinha, Werneri Huhtinen, Johan Tallgren, Adelio Mendes  
+
+**Journal:** Green Chemistry  
+
+**Published Date:** 2024  
+
+**DOI:** [10.2139/ssrn.4876389](https://doi.org/10.2139/ssrn.4876389)  
+
+**Citation Link:** [https://doi.org/10.1039/D5GC02092A](https://doi.org/10.1039/D5GC02092A)  
+
+
+
+---
+
 ### A dynamically stable self-assembled CoFe (oxy)hydroxide-based nanocatalyst with boosted electrocatalytic performance for the oxygen-evolution reaction
 
 **Authors:** Ming Zhu, Hengyue Xu, Jie Dai, Daqin Guan, Zhiwei Hu, Sixuan She, Chien-Te Chen, Ran Ran, Wei Zhou, Zongping Shao  
@@ -1220,22 +1252,6 @@ This page was generated automatically.
 **DOI:** [10.26434/chemrxiv-2022-dhj14](https://doi.org/10.26434/chemrxiv-2022-dhj14)  
 
 **Citation Link:** [https://doi.org/10.1039/D2NR06665C](https://doi.org/10.1039/D2NR06665C)  
-
-
-
----
-
-### An atomically dispersed Pt/γ-Mo2N(O0.3) catalyst for hydrogen production via aqueous-phase reforming of methanol
-
-**Authors:** Yang Liu, Sirui Li, Shanhui Zhu  
-
-**Journal:** Green Chemistry  
-
-**Published Date:** 2022-8-7  
-
-**DOI:** [10.1007/s11144-022-02275-x](https://doi.org/10.1007/s11144-022-02275-x)  
-
-**Citation Link:** [https://doi.org/10.1039/D5GC02092A](https://doi.org/10.1039/D5GC02092A)  
 
 
 
