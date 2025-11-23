@@ -278,38 +278,6 @@ This page was generated automatically.
 
 ---
 
-### Atomic dispersion of Ag on Mn2O3 for soot catalytic oxidation: Dispersion mechanism and catalytic intermediate identification
-
-**Authors:** Qian Lv, Baofang Jin, Hengyue Xu, Xiaodong Wu, Ningqiang Zhang, Dawei Pang, Ang Li, Xiaodong Han  
-
-**Journal:** Materials Today Nano  
-
-**Published Date:** 2025-3  
-
-**DOI:** [10.1016/j.mtnano.2025.100597](https://doi.org/10.1016/j.mtnano.2025.100597)  
-
-**Citation Link:** [https://doi.org/10.1016/J.MTNANO.2025.100597](https://doi.org/10.1016/J.MTNANO.2025.100597)  
-
-
-
----
-
-### Atomic dispersion of Ag on Mn2O3 for soot catalytic oxidation: Dispersion mechanism and catalytic intermediate identification
-
-**Authors:** Qian Lv, Baofang Jin, Hengyue Xu, Xiaodong Wu, Ningqiang Zhang, Dawei Pang, Ang Li, Xiaodong Han  
-
-**Journal:** Materials Today Nano  
-
-**Published Date:** 2025-3  
-
-**DOI:** [10.1016/j.mtnano.2025.100597](https://doi.org/10.1016/j.mtnano.2025.100597)  
-
-**Citation Link:** [https://doi.org/10.1016/j.mtnano.2025.100597](https://doi.org/10.1016/j.mtnano.2025.100597)  
-
-
-
----
-
 ### Electron-Withdrawing Hexagonal Boron Nitride as a Biocompatible and Metal-Free Antibacterial Platform
 
 **Authors:** Jianxiang Gao, Hengyue Xu, Yingcan Zhao, Linxuan Sun, Xi Zhang, Yichao Bai, Wenbo Li, Mingchuang Zhao, Haoqi He, Xudong Liu, Qiangmin Yu, Vijay Pandey, Lan Ma, Feiyu Kang, Mauricio Terrones, Yu Lei  
@@ -374,22 +342,6 @@ This page was generated automatically.
 
 ---
 
-### Enantiopure Dual-Helical Covalent Organic Framework Nanotubes Mediated by Supramolecular Assembly
-
-**Authors:** Unknown  
-
-**Journal:** Journal of the American Chemical Society  
-
-**Published Date:** 2025-11-12  
-
-**DOI:** [10.1021/jacs.5c09144.s001](https://doi.org/10.1021/jacs.5c09144.s001)  
-
-**Citation Link:** [https://doi.org/10.1021/jacs.5c09144](https://doi.org/10.1021/jacs.5c09144)  
-
-
-
----
-
 ### Regulation of Rh Single-Atom Coordination for Enhanced Reverse Hydrogen Spillover and Efficient Electrochemical Dechlorination
 
 **Authors:** Unknown  
@@ -417,6 +369,22 @@ This page was generated automatically.
 **DOI:** [10.1038/s41467-025-63969-z](https://doi.org/10.1038/s41467-025-63969-z)  
 
 **Citation Link:** [https://doi.org/10.1038/s41467-025-63969-z](https://doi.org/10.1038/s41467-025-63969-z)  
+
+
+
+---
+
+### Enantiopure Dual-Helical Covalent Organic Framework Nanotubes Mediated by Supramolecular Assembly
+
+**Authors:** Wenda Li, Hengyue Xu, Hongyi Zhang, Hao Chen, Shanzhe Ke, Gaijuan Guo, Facai Wei, Jianwei Fu, Chengbin Jing, Jiangong Cheng, Shaohua Liu  
+
+**Journal:** Journal of the American Chemical Society  
+
+**Published Date:** 2025-10-31  
+
+**DOI:** [10.1021/jacs.5c09144](https://doi.org/10.1021/jacs.5c09144)  
+
+**Citation Link:** [https://doi.org/10.1021/jacs.5c09144](https://doi.org/10.1021/jacs.5c09144)  
 
 
 
@@ -918,22 +886,6 @@ This page was generated automatically.
 
 ---
 
-### An atomically dispersed Pt/γ-Mo2N(O0.3) catalyst for hydrogen production via aqueous-phase reforming of methanol
-
-**Authors:** José Sousa, Paranjeet Lakhtaria, Paulo Ribeirinha, Werneri Huhtinen, Johan Tallgren, Adélio Mendes  
-
-**Journal:** Green Chemistry  
-
-**Published Date:** 2024-10-21  
-
-**DOI:** [10.3390/catal14100741](https://doi.org/10.3390/catal14100741)  
-
-**Citation Link:** [https://doi.org/10.1039/D5GC02092A](https://doi.org/10.1039/D5GC02092A)  
-
-
-
----
-
 ### Deciphering the Nitrogen Activation Mechanisms on Group VIII Single Atoms at MoS2
 
 **Authors:** Unknown  
@@ -961,6 +913,22 @@ This page was generated automatically.
 **DOI:** [10.1021/acs.jpclett.4c00641.s001](https://doi.org/10.1021/acs.jpclett.4c00641.s001)  
 
 **Citation Link:** [https://doi.org/10.1021/acs.jpclett.4c00641](https://doi.org/10.1021/acs.jpclett.4c00641)  
+
+
+
+---
+
+### An atomically dispersed Pt/γ-Mo2N(O0.3) catalyst for hydrogen production via aqueous-phase reforming of methanol
+
+**Authors:** Paranjeet Lakhtaria, Jose Sousa, Paulo Ribeirinha, Werneri Huhtinen, Johan Tallgren, Adelio Mendes  
+
+**Journal:** Green Chemistry  
+
+**Published Date:** 2024  
+
+**DOI:** [10.2139/ssrn.4876389](https://doi.org/10.2139/ssrn.4876389)  
+
+**Citation Link:** [https://doi.org/10.1039/D5GC02092A](https://doi.org/10.1039/D5GC02092A)  
 
 
 
