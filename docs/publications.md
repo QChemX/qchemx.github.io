@@ -342,6 +342,22 @@ This page was generated automatically.
 
 ---
 
+### Enantiopure Dual-Helical Covalent Organic Framework Nanotubes Mediated by Supramolecular Assembly
+
+**Authors:** Unknown  
+
+**Journal:** Journal of the American Chemical Society  
+
+**Published Date:** 2025-11-12  
+
+**DOI:** [10.1021/jacs.5c09144.s001](https://doi.org/10.1021/jacs.5c09144.s001)  
+
+**Citation Link:** [https://doi.org/10.1021/jacs.5c09144](https://doi.org/10.1021/jacs.5c09144)  
+
+
+
+---
+
 ### High-dimensional strain unlocks fast polysulfide redox kinetics for lithium-sulfur batteries
 
 **Authors:** Jin-Lin Yang, Hengyue Xu, Tao Xiao, Jia Li, Wenqi Yan, Tao Zhang, Hong Jin Fan  
@@ -353,22 +369,6 @@ This page was generated automatically.
 **DOI:** [10.1038/s41467-025-63969-z](https://doi.org/10.1038/s41467-025-63969-z)  
 
 **Citation Link:** [https://doi.org/10.1038/s41467-025-63969-z](https://doi.org/10.1038/s41467-025-63969-z)  
-
-
-
----
-
-### Enantiopure Dual-Helical Covalent Organic Framework Nanotubes Mediated by Supramolecular Assembly
-
-**Authors:** Wenda Li, Hengyue Xu, Hongyi Zhang, Hao Chen, Shanzhe Ke, Gaijuan Guo, Facai Wei, Jianwei Fu, Chengbin Jing, Jiangong Cheng, Shaohua Liu  
-
-**Journal:** Journal of the American Chemical Society  
-
-**Published Date:** 2025-10-31  
-
-**DOI:** [10.1021/jacs.5c09144](https://doi.org/10.1021/jacs.5c09144)  
-
-**Citation Link:** [https://doi.org/10.1021/jacs.5c09144](https://doi.org/10.1021/jacs.5c09144)  
 
 
 
@@ -718,7 +718,7 @@ This page was generated automatically.
 
 **Published Date:** 2024-4-4  
 
-**DOI:** [10.1002/anie.202401386](https://doi.org/10.1002/anie.202401386)  
+**DOI:** [10.1002/ange.202401386](https://doi.org/10.1002/ange.202401386)  
 
 **Citation Link:** [https://doi.org/10.1002/anie.202401386](https://doi.org/10.1002/anie.202401386)  
 
