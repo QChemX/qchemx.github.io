@@ -326,6 +326,22 @@ This page was generated automatically.
 
 ---
 
+### Regulation of Rh Single-Atom Coordination for Enhanced Reverse Hydrogen Spillover and Efficient Electrochemical Dechlorination
+
+**Authors:** Unknown  
+
+**Journal:** Journal of the American Chemical Society  
+
+**Published Date:** 2025-11-26  
+
+**DOI:** [10.1021/jacs.5c18184.s001](https://doi.org/10.1021/jacs.5c18184.s001)  
+
+**Citation Link:** [https://doi.org/10.1021/jacs.5c18184](https://doi.org/10.1021/jacs.5c18184)  
+
+
+
+---
+
 ### Luffa sponge as a sustainable reinforcement for impact-resistant cementitious composites
 
 **Authors:** Yuanzheng Lin, Chaobin Yang, Zhiyang Pei, Hengyue Xu, Yu Zhang, Jiaxing Ma, Neven Ukrainczyk, Yixia Zhang, Eduardus Koenders, Wenjie Xie, Anke Weidenkaff, Zhouhong Zong, Jingming Cai  
@@ -337,22 +353,6 @@ This page was generated automatically.
 **DOI:** [10.1038/s43246-025-00985-y](https://doi.org/10.1038/s43246-025-00985-y)  
 
 **Citation Link:** [https://doi.org/10.1038/s43246-025-00985-y](https://doi.org/10.1038/s43246-025-00985-y)  
-
-
-
----
-
-### Regulation of Rh Single-Atom Coordination for Enhanced Reverse Hydrogen Spillover and Efficient Electrochemical Dechlorination
-
-**Authors:** Qian Zheng, Hengyue Xu, Yancai Yao, Jie Dai, Guangming Zhan, Jiaxian Wang, Bing Zhou, Ruizhao Wang, Kaiyuan Wang, Rui Zhao, Bo Yang, Lizhi Zhang  
-
-**Journal:** Journal of the American Chemical Society  
-
-**Published Date:** 2025-11-12  
-
-**DOI:** [10.1021/jacs.5c18184](https://doi.org/10.1021/jacs.5c18184)  
-
-**Citation Link:** [https://doi.org/10.1021/jacs.5c18184](https://doi.org/10.1021/jacs.5c18184)  
 
 
 
@@ -846,7 +846,7 @@ This page was generated automatically.
 
 **Published Date:** 2024-11-16  
 
-**DOI:** [10.1002/ange.202415664](https://doi.org/10.1002/ange.202415664)  
+**DOI:** [10.1002/anie.202415664](https://doi.org/10.1002/anie.202415664)  
 
 **Citation Link:** [https://doi.org/10.1002/anie.202415664](https://doi.org/10.1002/anie.202415664)  
 
@@ -862,7 +862,7 @@ This page was generated automatically.
 
 **Published Date:** 2024-11-16  
 
-**DOI:** [10.1002/ange.202415664](https://doi.org/10.1002/ange.202415664)  
+**DOI:** [10.1002/anie.202415664](https://doi.org/10.1002/anie.202415664)  
 
 **Citation Link:** [https://doi.org/10.1002/ange.202415664](https://doi.org/10.1002/ange.202415664)  
 
@@ -918,22 +918,6 @@ This page was generated automatically.
 
 ---
 
-### An atomically dispersed Pt/γ-Mo2N(O0.3) catalyst for hydrogen production via aqueous-phase reforming of methanol
-
-**Authors:** José Sousa, Paranjeet Lakhtaria, Paulo Ribeirinha, Werneri Huhtinen, Johan Tallgren, Adélio Mendes  
-
-**Journal:** Green Chemistry  
-
-**Published Date:** 2024-10-21  
-
-**DOI:** [10.3390/catal14100741](https://doi.org/10.3390/catal14100741)  
-
-**Citation Link:** [https://doi.org/10.1039/D5GC02092A](https://doi.org/10.1039/D5GC02092A)  
-
-
-
----
-
 ### Deciphering the Nitrogen Activation Mechanisms on Group VIII Single Atoms at MoS2
 
 **Authors:** Unknown  
@@ -945,6 +929,22 @@ This page was generated automatically.
 **DOI:** [10.1021/acs.inorgchem.4c02375.s001](https://doi.org/10.1021/acs.inorgchem.4c02375.s001)  
 
 **Citation Link:** [https://doi.org/10.1021/acs.inorgchem.4c02375](https://doi.org/10.1021/acs.inorgchem.4c02375)  
+
+
+
+---
+
+### An atomically dispersed Pt/γ-Mo2N(O0.3) catalyst for hydrogen production via aqueous-phase reforming of methanol
+
+**Authors:** Paranjeet Lakhtaria, Jose Sousa, Paulo Ribeirinha, Werneri Huhtinen, Johan Tallgren, Adelio Mendes  
+
+**Journal:** Green Chemistry  
+
+**Published Date:** 2024  
+
+**DOI:** [10.2139/ssrn.4876389](https://doi.org/10.2139/ssrn.4876389)  
+
+**Citation Link:** [https://doi.org/10.1039/D5GC02092A](https://doi.org/10.1039/D5GC02092A)  
 
 
 
