@@ -326,6 +326,22 @@ This page was generated automatically.
 
 ---
 
+### Regulation of Rh Single-Atom Coordination for Enhanced Reverse Hydrogen Spillover and Efficient Electrochemical Dechlorination
+
+**Authors:** Qian Zheng, Hengyue Xu, Yancai Yao, Jie Dai, Guangming Zhan, Jiaxian Wang, Bing Zhou, Ruizhao Wang, Kaiyuan Wang, Rui Zhao, Bo Yang, Lizhi Zhang  
+
+**Journal:** Journal of the American Chemical Society  
+
+**Published Date:** 2025-11-12  
+
+**DOI:** [10.1021/jacs.5c18184](https://doi.org/10.1021/jacs.5c18184)  
+
+**Citation Link:** [https://doi.org/10.1021/JACS.5C18184](https://doi.org/10.1021/JACS.5C18184)  
+
+
+
+---
+
 ### Enantiopure Dual-Helical Covalent Organic Framework Nanotubes Mediated by Supramolecular Assembly
 
 **Authors:** Unknown  
@@ -465,22 +481,6 @@ This page was generated automatically.
 **DOI:** [10.1021/acs.nanolett.4c05984.s001](https://doi.org/10.1021/acs.nanolett.4c05984.s001)  
 
 **Citation Link:** [https://doi.org/10.1021/acs.nanolett.4c05984](https://doi.org/10.1021/acs.nanolett.4c05984)  
-
-
-
----
-
-### Regulation of Rh Single-Atom Coordination for Enhanced Reverse Hydrogen Spillover and Efficient Electrochemical Dechlorination
-
-**Authors:** Unknown  
-
-**Journal:** Journal of the American Chemical Society  
-
-**Published Date:** 2025  
-
-**DOI:** [10.1021/jacs.5c18184.s001](https://doi.org/10.1021/jacs.5c18184.s001)  
-
-**Citation Link:** [https://doi.org/10.1021/JACS.5C18184](https://doi.org/10.1021/JACS.5C18184)  
 
 
 
