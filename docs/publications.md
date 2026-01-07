@@ -894,7 +894,7 @@ This page was generated automatically.
 
 **Published Date:** 2024-11-16  
 
-**DOI:** [10.1002/anie.202415664](https://doi.org/10.1002/anie.202415664)  
+**DOI:** [10.1002/ange.202415664](https://doi.org/10.1002/ange.202415664)  
 
 **Citation Link:** [https://doi.org/10.1002/anie.202415664](https://doi.org/10.1002/anie.202415664)  
 
@@ -993,22 +993,6 @@ This page was generated automatically.
 **DOI:** [10.1021/acs.jpclett.4c00641.s001](https://doi.org/10.1021/acs.jpclett.4c00641.s001)  
 
 **Citation Link:** [https://doi.org/10.1021/acs.jpclett.4c00641](https://doi.org/10.1021/acs.jpclett.4c00641)  
-
-
-
----
-
-### An atomically dispersed Pt/γ-Mo2N(O0.3) catalyst for hydrogen production via aqueous-phase reforming of methanol
-
-**Authors:** Paranjeet Lakhtaria, Jose Sousa, Paulo Ribeirinha, Werneri Huhtinen, Johan Tallgren, Adelio Mendes  
-
-**Journal:** Green Chemistry  
-
-**Published Date:** 2024  
-
-**DOI:** [10.2139/ssrn.4876389](https://doi.org/10.2139/ssrn.4876389)  
-
-**Citation Link:** [https://doi.org/10.1039/D5GC02092A](https://doi.org/10.1039/D5GC02092A)  
 
 
 
@@ -1300,6 +1284,22 @@ This page was generated automatically.
 **DOI:** [10.26434/chemrxiv-2022-dhj14](https://doi.org/10.26434/chemrxiv-2022-dhj14)  
 
 **Citation Link:** [https://doi.org/10.1039/D2NR06665C](https://doi.org/10.1039/D2NR06665C)  
+
+
+
+---
+
+### An atomically dispersed Pt/γ-Mo2N(O0.3) catalyst for hydrogen production via aqueous-phase reforming of methanol
+
+**Authors:** Yang Liu, Sirui Li, Shanhui Zhu  
+
+**Journal:** Green Chemistry  
+
+**Published Date:** 2022-8-7  
+
+**DOI:** [10.1007/s11144-022-02275-x](https://doi.org/10.1007/s11144-022-02275-x)  
+
+**Citation Link:** [https://doi.org/10.1039/D5GC02092A](https://doi.org/10.1039/D5GC02092A)  
 
 
 
