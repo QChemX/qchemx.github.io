@@ -344,13 +344,13 @@ This page was generated automatically.
 
 ### Beyond Conventional Doping: High-Valence Element Integrated Slight Li Enrichment in Ni-Rich Cathodes with High Capacity and Ultralong Cycle Life
 
-**Authors:** Xiaohong Liu, Xin Zhou, Shiqi Du, Wantong Duan, Guilin Feng, Chunliu Xu, Zhuang-Chun Jian, Hengyue Xu, Bin Zhang, Hao Liu, Yao Xiao, Wei Xiang  
+**Authors:** Unknown  
 
 **Journal:** ACS Energy Letters  
 
 **Published Date:** 2025-12-31  
 
-**DOI:** [10.1021/acsenergylett.5c03896](https://doi.org/10.1021/acsenergylett.5c03896)  
+**DOI:** [10.1021/acsenergylett.5c03896.s001](https://doi.org/10.1021/acsenergylett.5c03896.s001)  
 
 **Citation Link:** [https://doi.org/10.1021/acsenergylett.5c03896](https://doi.org/10.1021/acsenergylett.5c03896)  
 
@@ -390,6 +390,22 @@ This page was generated automatically.
 
 ---
 
+### Regulation of Rh Single-Atom Coordination for Enhanced Reverse Hydrogen Spillover and Efficient Electrochemical Dechlorination
+
+**Authors:** Unknown  
+
+**Journal:** Journal of the American Chemical Society  
+
+**Published Date:** 2025-11-26  
+
+**DOI:** [10.1021/jacs.5c18184.s001](https://doi.org/10.1021/jacs.5c18184.s001)  
+
+**Citation Link:** [https://doi.org/10.1021/jacs.5c18184](https://doi.org/10.1021/jacs.5c18184)  
+
+
+
+---
+
 ### Luffa sponge as a sustainable reinforcement for impact-resistant cementitious composites
 
 **Authors:** Yuanzheng Lin, Chaobin Yang, Zhiyang Pei, Hengyue Xu, Yu Zhang, Jiaxing Ma, Neven Ukrainczyk, Yixia Zhang, Eduardus Koenders, Wenjie Xie, Anke Weidenkaff, Zhouhong Zong, Jingming Cai  
@@ -401,22 +417,6 @@ This page was generated automatically.
 **DOI:** [10.1038/s43246-025-00985-y](https://doi.org/10.1038/s43246-025-00985-y)  
 
 **Citation Link:** [https://doi.org/10.1038/s43246-025-00985-y](https://doi.org/10.1038/s43246-025-00985-y)  
-
-
-
----
-
-### Regulation of Rh Single-Atom Coordination for Enhanced Reverse Hydrogen Spillover and Efficient Electrochemical Dechlorination
-
-**Authors:** Qian Zheng, Hengyue Xu, Yancai Yao, Jie Dai, Guangming Zhan, Jiaxian Wang, Bing Zhou, Ruizhao Wang, Kaiyuan Wang, Rui Zhao, Bo Yang, Lizhi Zhang  
-
-**Journal:** Journal of the American Chemical Society  
-
-**Published Date:** 2025-11-12  
-
-**DOI:** [10.1021/jacs.5c18184](https://doi.org/10.1021/jacs.5c18184)  
-
-**Citation Link:** [https://doi.org/10.1021/jacs.5c18184](https://doi.org/10.1021/jacs.5c18184)  
 
 
 
@@ -798,7 +798,7 @@ This page was generated automatically.
 
 **Published Date:** 2024-4-4  
 
-**DOI:** [10.1002/anie.202401386](https://doi.org/10.1002/anie.202401386)  
+**DOI:** [10.1002/ange.202401386](https://doi.org/10.1002/ange.202401386)  
 
 **Citation Link:** [https://doi.org/10.1002/anie.202401386](https://doi.org/10.1002/anie.202401386)  
 
@@ -814,7 +814,7 @@ This page was generated automatically.
 
 **Published Date:** 2024-4-4  
 
-**DOI:** [10.1002/ange.202401386](https://doi.org/10.1002/ange.202401386)  
+**DOI:** [10.1002/anie.202401386](https://doi.org/10.1002/anie.202401386)  
 
 **Citation Link:** [https://doi.org/10.1002/ange.202401386](https://doi.org/10.1002/ange.202401386)  
 
