@@ -22,6 +22,22 @@ This page was generated automatically.
 
 ---
 
+### Beyond Conventional Doping: High-Valence Element Integrated Slight Li Enrichment in Ni-Rich Cathodes with High Capacity and Ultralong Cycle Life
+
+**Authors:** Unknown  
+
+**Journal:** ACS Energy Letters  
+
+**Published Date:** 2026-02-13  
+
+**DOI:** [10.1021/acsenergylett.5c03896.s001](https://doi.org/10.1021/acsenergylett.5c03896.s001)  
+
+**Citation Link:** [https://doi.org/10.1021/acsenergylett.5c03896](https://doi.org/10.1021/acsenergylett.5c03896)  
+
+
+
+---
+
 ### Bio-Inspired Curvature Engineering across the Periodic Table Tunes Hydrogen Adsorption in Single-Atom Catalysts
 
 **Authors:** Unknown  
@@ -337,22 +353,6 @@ This page was generated automatically.
 **DOI:** [10.1007/s40820-024-01636-6](https://doi.org/10.1007/s40820-024-01636-6)  
 
 **Citation Link:** [https://doi.org/10.1007/s40820-024-01636-6](https://doi.org/10.1007/s40820-024-01636-6)  
-
-
-
----
-
-### Beyond Conventional Doping: High-Valence Element Integrated Slight Li Enrichment in Ni-Rich Cathodes with High Capacity and Ultralong Cycle Life
-
-**Authors:** Unknown  
-
-**Journal:** ACS Energy Letters  
-
-**Published Date:** 2025-12-31  
-
-**DOI:** [10.1021/acsenergylett.5c03896.s001](https://doi.org/10.1021/acsenergylett.5c03896.s001)  
-
-**Citation Link:** [https://doi.org/10.1021/acsenergylett.5c03896](https://doi.org/10.1021/acsenergylett.5c03896)  
 
 
 
@@ -798,7 +798,7 @@ This page was generated automatically.
 
 **Published Date:** 2024-4-4  
 
-**DOI:** [10.1002/anie.202401386](https://doi.org/10.1002/anie.202401386)  
+**DOI:** [10.1002/ange.202401386](https://doi.org/10.1002/ange.202401386)  
 
 **Citation Link:** [https://doi.org/10.1002/anie.202401386](https://doi.org/10.1002/anie.202401386)  
 
