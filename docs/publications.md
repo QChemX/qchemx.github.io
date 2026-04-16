@@ -54,6 +54,22 @@ This page was generated automatically.
 
 ---
 
+### Ultrastable Copper Superatom
+
+**Authors:** Ben Zhang, Zhen-Chao Long, Jia-Rui Xu, Heng-Yue Xu, Quan-Ming Wang  
+
+**Journal:** Journal of the American Chemical Society  
+
+**Published Date:** 2026-1-7  
+
+**DOI:** [10.1021/jacs.5c17976](https://doi.org/10.1021/jacs.5c17976)  
+
+**Citation Link:** [https://doi.org/10.1021/jacs.5c17976](https://doi.org/10.1021/jacs.5c17976)  
+
+
+
+---
+
 ### Curvature-Gated Li/Na–S Redox Chemistry on C60: Stage-Selective Sulfur Regulation and Divergent Terminal Sulfide Kinetics
 
 **Authors:** Unknown  
@@ -81,22 +97,6 @@ This page was generated automatically.
 **DOI:** [10.1021/acsenergylett.5c03896.s001](https://doi.org/10.1021/acsenergylett.5c03896.s001)  
 
 **Citation Link:** [https://doi.org/10.1021/acsenergylett.5c03896](https://doi.org/10.1021/acsenergylett.5c03896)  
-
-
-
----
-
-### Ultrastable Copper Superatom
-
-**Authors:** Unknown  
-
-**Journal:** Journal of the American Chemical Society  
-
-**Published Date:** 2026-01-21  
-
-**DOI:** [10.1021/jacs.5c17976.s001](https://doi.org/10.1021/jacs.5c17976.s001)  
-
-**Citation Link:** [https://doi.org/10.1021/jacs.5c17976](https://doi.org/10.1021/jacs.5c17976)  
 
 
 
