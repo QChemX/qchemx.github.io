@@ -214,22 +214,6 @@ This page was generated automatically.
 
 ---
 
-### Balanced Iodophilicity and Solvophilicity Unlocks Fast Iodine Conversion Chemistry
-
-**Authors:** Tao Xiao, Jin-Lin Yang, Ruo Jie Xu, Hengyue Xu, Huan Liu, Jia Li, Haoming Bao, Xiaoyan Jin, Seong-Ju Hwang, Zhe Wang, Hong Jin Fan  
-
-**Journal:** Journal of the American Chemical Society  
-
-**Published Date:** 2025-8-1  
-
-**DOI:** [10.1021/jacs.5c05786](https://doi.org/10.1021/jacs.5c05786)  
-
-**Citation Link:** [https://doi.org/10.1021/jacs.5c05786](https://doi.org/10.1021/jacs.5c05786)  
-
-
-
----
-
 ### Supramolecular nanocrystalline membranes with well-aligned subnanochannels for enhanced reverse osmosis desalination
 
 **Authors:** Gang Lu, Wentao Shang, Xinyao Ma, Hengyue Xu, Hubao A, Jiawei Sun, Xiaolu Li, Mingyi Jia, Shuang Lu, Jun Wu, Xi Chen, Shensheng Chen, Jun Fan, Alicia Kyoungjin An  
@@ -598,6 +582,22 @@ This page was generated automatically.
 
 ---
 
+### Balanced Iodophilicity and Solvophilicity Unlocks Fast Iodine Conversion Chemistry
+
+**Authors:** Unknown  
+
+**Journal:** Journal of the American Chemical Society  
+
+**Published Date:** 2025-08-13  
+
+**DOI:** [10.1021/jacs.5c05786.s001](https://doi.org/10.1021/jacs.5c05786.s001)  
+
+**Citation Link:** [https://doi.org/10.1021/jacs.5c05786](https://doi.org/10.1021/jacs.5c05786)  
+
+
+
+---
+
 ### MOF Derived Phosphide Nanocubes with Internal Heterojunction: A Study Powered by Single Entity Electrochemistry
 
 **Authors:** Unknown  
@@ -774,6 +774,22 @@ This page was generated automatically.
 
 ---
 
+### In Situ Species Analysis of a Lithium-Ion Battery Electrolyte Containing LiTFSI and Propylene Carbonate
+
+**Authors:** Ya-Qian Wang, Hengyue Xu, Bobo Cao, Jing Ma, Zhi-Wu Yu  
+
+**Journal:** The Journal of Physical Chemistry Letters  
+
+**Published Date:** 2024-5-3  
+
+**DOI:** [10.1021/acs.jpclett.4c00641](https://doi.org/10.1021/acs.jpclett.4c00641)  
+
+**Citation Link:** [https://doi.org/10.1021/acs.jpclett.4c00641](https://doi.org/10.1021/acs.jpclett.4c00641)  
+
+
+
+---
+
 ### Tailoring the Electrochemical Responses of MOF‐74 Via Dual‐Defect Engineering for Superior Energy Storage
 
 **Authors:** Tingting Chen, Hengyue Xu, Shaopeng Li, Jiaqi Zhang, Zhicheng Tan, Long Chen, Yiwang Chen, Zhongjie Huang, Huan Pang  
@@ -846,7 +862,7 @@ This page was generated automatically.
 
 **Published Date:** 2024-4-4  
 
-**DOI:** [10.1002/anie.202401386](https://doi.org/10.1002/anie.202401386)  
+**DOI:** [10.1002/ange.202401386](https://doi.org/10.1002/ange.202401386)  
 
 **Citation Link:** [https://doi.org/10.1002/anie.202401386](https://doi.org/10.1002/anie.202401386)  
 
@@ -1057,22 +1073,6 @@ This page was generated automatically.
 **DOI:** [10.1021/acs.inorgchem.4c02375.s001](https://doi.org/10.1021/acs.inorgchem.4c02375.s001)  
 
 **Citation Link:** [https://doi.org/10.1021/acs.inorgchem.4c02375](https://doi.org/10.1021/acs.inorgchem.4c02375)  
-
-
-
----
-
-### In Situ Species Analysis of a Lithium-Ion Battery Electrolyte Containing LiTFSI and Propylene Carbonate
-
-**Authors:** Unknown  
-
-**Journal:** The Journal of Physical Chemistry Letters  
-
-**Published Date:** 2024-05-16  
-
-**DOI:** [10.1021/acs.jpclett.4c00641.s001](https://doi.org/10.1021/acs.jpclett.4c00641.s001)  
-
-**Citation Link:** [https://doi.org/10.1021/acs.jpclett.4c00641](https://doi.org/10.1021/acs.jpclett.4c00641)  
 
 
 
