@@ -54,22 +54,6 @@ This page was generated automatically.
 
 ---
 
-### Ultrastable Copper Superatom
-
-**Authors:** Ben Zhang, Zhen-Chao Long, Jia-Rui Xu, Heng-Yue Xu, Quan-Ming Wang  
-
-**Journal:** Journal of the American Chemical Society  
-
-**Published Date:** 2026-1-7  
-
-**DOI:** [10.1021/jacs.5c17976](https://doi.org/10.1021/jacs.5c17976)  
-
-**Citation Link:** [https://doi.org/10.1021/jacs.5c17976](https://doi.org/10.1021/jacs.5c17976)  
-
-
-
----
-
 ### Curvature-Gated Li/Na–S Redox Chemistry on C60: Stage-Selective Sulfur Regulation and Divergent Terminal Sulfide Kinetics
 
 **Authors:** Unknown  
@@ -97,6 +81,22 @@ This page was generated automatically.
 **DOI:** [10.1021/acsenergylett.5c03896.s001](https://doi.org/10.1021/acsenergylett.5c03896.s001)  
 
 **Citation Link:** [https://doi.org/10.1021/acsenergylett.5c03896](https://doi.org/10.1021/acsenergylett.5c03896)  
+
+
+
+---
+
+### Ultrastable Copper Superatom
+
+**Authors:** Unknown  
+
+**Journal:** Journal of the American Chemical Society  
+
+**Published Date:** 2026-01-21  
+
+**DOI:** [10.1021/jacs.5c17976.s001](https://doi.org/10.1021/jacs.5c17976.s001)  
+
+**Citation Link:** [https://doi.org/10.1021/jacs.5c17976](https://doi.org/10.1021/jacs.5c17976)  
 
 
 
@@ -209,22 +209,6 @@ This page was generated automatically.
 **DOI:** [10.1002/adma.202514035](https://doi.org/10.1002/adma.202514035)  
 
 **Citation Link:** [https://doi.org/10.1002/ADMA.202514035](https://doi.org/10.1002/ADMA.202514035)  
-
-
-
----
-
-### Balanced Iodophilicity and Solvophilicity Unlocks Fast Iodine Conversion Chemistry
-
-**Authors:** Tao Xiao, Jin-Lin Yang, Ruo Jie Xu, Hengyue Xu, Huan Liu, Jia Li, Haoming Bao, Xiaoyan Jin, Seong-Ju Hwang, Zhe Wang, Hong Jin Fan  
-
-**Journal:** Journal of the American Chemical Society  
-
-**Published Date:** 2025-8-1  
-
-**DOI:** [10.1021/jacs.5c05786](https://doi.org/10.1021/jacs.5c05786)  
-
-**Citation Link:** [https://doi.org/10.1021/jacs.5c05786](https://doi.org/10.1021/jacs.5c05786)  
 
 
 
@@ -385,22 +369,6 @@ This page was generated automatically.
 **DOI:** [10.1016/j.jhazmat.2024.136826](https://doi.org/10.1016/j.jhazmat.2024.136826)  
 
 **Citation Link:** [https://doi.org/10.1016/j.jhazmat.2024.136826](https://doi.org/10.1016/j.jhazmat.2024.136826)  
-
-
-
----
-
-### Electron-Withdrawing Hexagonal Boron Nitride as a Biocompatible and Metal-Free Antibacterial Platform
-
-**Authors:** Jianxiang Gao, Hengyue Xu, Yingcan Zhao, Linxuan Sun, Xi Zhang, Yichao Bai, Wenbo Li, Mingchuang Zhao, Haoqi He, Xudong Liu, Qiangmin Yu, Vijay Pandey, Lan Ma, Feiyu Kang, Mauricio Terrones, Yu Lei  
-
-**Journal:** Nano Letters  
-
-**Published Date:** 2025-2-21  
-
-**DOI:** [10.1021/acs.nanolett.4c05984](https://doi.org/10.1021/acs.nanolett.4c05984)  
-
-**Citation Link:** [https://doi.org/10.1021/acs.nanolett.4c05984](https://doi.org/10.1021/acs.nanolett.4c05984)  
 
 
 
@@ -598,6 +566,22 @@ This page was generated automatically.
 
 ---
 
+### Balanced Iodophilicity and Solvophilicity Unlocks Fast Iodine Conversion Chemistry
+
+**Authors:** Unknown  
+
+**Journal:** Journal of the American Chemical Society  
+
+**Published Date:** 2025-08-13  
+
+**DOI:** [10.1021/jacs.5c05786.s001](https://doi.org/10.1021/jacs.5c05786.s001)  
+
+**Citation Link:** [https://doi.org/10.1021/jacs.5c05786](https://doi.org/10.1021/jacs.5c05786)  
+
+
+
+---
+
 ### MOF Derived Phosphide Nanocubes with Internal Heterojunction: A Study Powered by Single Entity Electrochemistry
 
 **Authors:** Unknown  
@@ -609,6 +593,22 @@ This page was generated automatically.
 **DOI:** [10.1021/acs.nanolett.5c00233.s001](https://doi.org/10.1021/acs.nanolett.5c00233.s001)  
 
 **Citation Link:** [https://doi.org/10.1021/acs.nanolett.5c00233](https://doi.org/10.1021/acs.nanolett.5c00233)  
+
+
+
+---
+
+### Electron-Withdrawing Hexagonal Boron Nitride as a Biocompatible and Metal-Free Antibacterial Platform
+
+**Authors:** Unknown  
+
+**Journal:** Nano Letters  
+
+**Published Date:** 2025-03-05  
+
+**DOI:** [10.1021/acs.nanolett.4c05984.s001](https://doi.org/10.1021/acs.nanolett.4c05984.s001)  
+
+**Citation Link:** [https://doi.org/10.1021/acs.nanolett.4c05984](https://doi.org/10.1021/acs.nanolett.4c05984)  
 
 
 
