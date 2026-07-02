@@ -182,6 +182,22 @@ This page was generated automatically.
 
 ---
 
+### Electronegativity-Induced Jahn–Teller Distortion Boosts Li–S Conversion on Asymmetric Cu Single-Atom Catalysts
+
+**Authors:** Hengyue Xu  
+
+**Journal:** The Journal of Physical Chemistry A  
+
+**Published Date:** 2025-9-10  
+
+**DOI:** [10.1021/acs.jpca.5c03527](https://doi.org/10.1021/acs.jpca.5c03527)  
+
+**Citation Link:** [https://doi.org/10.1021/acs.jpca.5c03527](https://doi.org/10.1021/acs.jpca.5c03527)  
+
+
+
+---
+
 ### Application of Metal‐Organic Framework Composites
 
 **Authors:** Yihao Chen, Hengyue Xu, Jiakang Shi, Yichun Su, Xudong Chen, Huan Pang  
@@ -342,6 +358,22 @@ This page was generated automatically.
 
 ---
 
+### MOF Derived Phosphide Nanocubes with Internal Heterojunction: A Study Powered by Single Entity Electrochemistry
+
+**Authors:** Zilong Chen, Hengyue Xu, Tingting Chen, Jiaqi Zhang, Songtao Zhang, Long Chen, Huan Pang, Zhongjie Huang  
+
+**Journal:** Nano Letters  
+
+**Published Date:** 2025-3-17  
+
+**DOI:** [10.1021/acs.nanolett.5c00233](https://doi.org/10.1021/acs.nanolett.5c00233)  
+
+**Citation Link:** [https://doi.org/10.1021/acs.nanolett.5c00233](https://doi.org/10.1021/acs.nanolett.5c00233)  
+
+
+
+---
+
 ### MnxCo3-xO4 spinel activates peroxymonosulfate for highly effective bisphenol A degradation with ultralow catalyst and persulfate usage
 
 **Authors:** Lu-Lu Zhou, Hengyue Xu, Yi-Han Sheng, Wei-Kang Wang, Juan Xu  
@@ -353,6 +385,22 @@ This page was generated automatically.
 **DOI:** [10.1016/j.jhazmat.2024.136826](https://doi.org/10.1016/j.jhazmat.2024.136826)  
 
 **Citation Link:** [https://doi.org/10.1016/j.jhazmat.2024.136826](https://doi.org/10.1016/j.jhazmat.2024.136826)  
+
+
+
+---
+
+### Electron-Withdrawing Hexagonal Boron Nitride as a Biocompatible and Metal-Free Antibacterial Platform
+
+**Authors:** Jianxiang Gao, Hengyue Xu, Yingcan Zhao, Linxuan Sun, Xi Zhang, Yichao Bai, Wenbo Li, Mingchuang Zhao, Haoqi He, Xudong Liu, Qiangmin Yu, Vijay Pandey, Lan Ma, Feiyu Kang, Mauricio Terrones, Yu Lei  
+
+**Journal:** Nano Letters  
+
+**Published Date:** 2025-2-21  
+
+**DOI:** [10.1021/acs.nanolett.4c05984](https://doi.org/10.1021/acs.nanolett.4c05984)  
+
+**Citation Link:** [https://doi.org/10.1021/acs.nanolett.4c05984](https://doi.org/10.1021/acs.nanolett.4c05984)  
 
 
 
@@ -433,22 +481,6 @@ This page was generated automatically.
 **DOI:** [10.1021/jacs.5c18184](https://doi.org/10.1021/jacs.5c18184)  
 
 **Citation Link:** [https://doi.org/10.1021/jacs.5c18184](https://doi.org/10.1021/jacs.5c18184)  
-
-
-
----
-
-### Regulation of Rh Single-Atom Coordination for Enhanced Reverse Hydrogen Spillover and Efficient Electrochemical Dechlorination
-
-**Authors:** Qian Zheng, Hengyue Xu, Yancai Yao, Jie Dai, Guangming Zhan, Jiaxian Wang, Bing Zhou, Ruizhao Wang, Kaiyuan Wang, Rui Zhao, Bo Yang, Lizhi Zhang  
-
-**Journal:** Journal of the American Chemical Society  
-
-**Published Date:** 2025-11-12  
-
-**DOI:** [10.1021/jacs.5c18184](https://doi.org/10.1021/jacs.5c18184)  
-
-**Citation Link:** [https://doi.org/10.1021/JACS.5C18184](https://doi.org/10.1021/JACS.5C18184)  
 
 
 
@@ -550,22 +582,6 @@ This page was generated automatically.
 
 ---
 
-### Electronegativity-Induced Jahn–Teller Distortion Boosts Li–S Conversion on Asymmetric Cu Single-Atom Catalysts
-
-**Authors:** Unknown  
-
-**Journal:** The Journal of Physical Chemistry A  
-
-**Published Date:** 2025-09-25  
-
-**DOI:** [10.1021/acs.jpca.5c03527](https://doi.org/10.1021/acs.jpca.5c03527)  
-
-**Citation Link:** [https://doi.org/10.1021/acs.jpca.5c03527](https://doi.org/10.1021/acs.jpca.5c03527)  
-
-
-
----
-
 ### Balanced Iodophilicity and Solvophilicity Unlocks Fast Iodine Conversion Chemistry
 
 **Authors:** Unknown  
@@ -582,33 +598,17 @@ This page was generated automatically.
 
 ---
 
-### MOF Derived Phosphide Nanocubes with Internal Heterojunction: A Study Powered by Single Entity Electrochemistry
+### Regulation of Rh Single-Atom Coordination for Enhanced Reverse Hydrogen Spillover and Efficient Electrochemical Dechlorination
 
 **Authors:** Unknown  
 
-**Journal:** Nano Letters  
+**Journal:** Journal of the American Chemical Society  
 
-**Published Date:** 2025-03-26  
+**Published Date:** 2025  
 
-**DOI:** [10.1021/acs.nanolett.5c00233.s001](https://doi.org/10.1021/acs.nanolett.5c00233.s001)  
+**DOI:** [10.1021/jacs.5c18184.s001](https://doi.org/10.1021/jacs.5c18184.s001)  
 
-**Citation Link:** [https://doi.org/10.1021/acs.nanolett.5c00233](https://doi.org/10.1021/acs.nanolett.5c00233)  
-
-
-
----
-
-### Electron-Withdrawing Hexagonal Boron Nitride as a Biocompatible and Metal-Free Antibacterial Platform
-
-**Authors:** Unknown  
-
-**Journal:** Nano Letters  
-
-**Published Date:** 2025-03-05  
-
-**DOI:** [10.1021/acs.nanolett.4c05984.s001](https://doi.org/10.1021/acs.nanolett.4c05984.s001)  
-
-**Citation Link:** [https://doi.org/10.1021/acs.nanolett.4c05984](https://doi.org/10.1021/acs.nanolett.4c05984)  
+**Citation Link:** [https://doi.org/10.1021/JACS.5C18184](https://doi.org/10.1021/JACS.5C18184)  
 
 
 
@@ -632,13 +632,13 @@ This page was generated automatically.
 
 ### Polyoxometalate-mediated confined self-assembly of sandwich-structured mesoporous polymer@rGO for high-performance aqueous zinc–iodine batteries
 
-**Authors:** Unknown  
+**Authors:** Wenyang Lu, Lebing Liu, Weibo Gong, Hengyue Xu, FengYang Xie, Xingrui Ji, Tingting Zhang, Shaohua Liu, Facai Wei, Chunxian Guo  
 
 **Journal:** Chemical Communications  
 
 **Published Date:** 2025  
 
-**DOI:** [10.1039/D5CC03153B](https://doi.org/10.1039/D5CC03153B)  
+**DOI:** [10.1039/d5cc03153b](https://doi.org/10.1039/d5cc03153b)  
 
 **Citation Link:** [https://doi.org/10.1039/D5CC03153B](https://doi.org/10.1039/D5CC03153B)  
 
@@ -846,7 +846,7 @@ This page was generated automatically.
 
 **Published Date:** 2024-4-4  
 
-**DOI:** [10.1002/anie.202401386](https://doi.org/10.1002/anie.202401386)  
+**DOI:** [10.1002/ange.202401386](https://doi.org/10.1002/ange.202401386)  
 
 **Citation Link:** [https://doi.org/10.1002/anie.202401386](https://doi.org/10.1002/anie.202401386)  
 
@@ -862,7 +862,7 @@ This page was generated automatically.
 
 **Published Date:** 2024-4-4  
 
-**DOI:** [10.1002/anie.202401386](https://doi.org/10.1002/anie.202401386)  
+**DOI:** [10.1002/ange.202401386](https://doi.org/10.1002/ange.202401386)  
 
 **Citation Link:** [https://doi.org/10.1002/ange.202401386](https://doi.org/10.1002/ange.202401386)  
 
@@ -974,7 +974,7 @@ This page was generated automatically.
 
 **Published Date:** 2024-11-16  
 
-**DOI:** [10.1002/ange.202415664](https://doi.org/10.1002/ange.202415664)  
+**DOI:** [10.1002/anie.202415664](https://doi.org/10.1002/anie.202415664)  
 
 **Citation Link:** [https://doi.org/10.1002/ange.202415664](https://doi.org/10.1002/ange.202415664)  
 
@@ -1078,6 +1078,22 @@ This page was generated automatically.
 
 ---
 
+### 2D Mesoporous Naphthalene‐Based Conductive Heteroarchitectures toward Long‐Life, High‐Capacity Zinc‐Iodine Batteries
+
+**Authors:** Unknown  
+
+**Journal:** Advanced Functional Materials  
+
+**Published Date:** 2024-01  
+
+**DOI:** [10.1002/adfm.202310693](https://doi.org/10.1002/adfm.202310693)  
+
+**Citation Link:** [https://doi.org/10.1002/adfm.202310693](https://doi.org/10.1002/adfm.202310693)  
+
+
+
+---
+
 ### A dynamically stable self-assembled CoFe (oxy)hydroxide-based nanocatalyst with boosted electrocatalytic performance for the oxygen-evolution reaction
 
 **Authors:** Ming Zhu, Hengyue Xu, Jie Dai, Daqin Guan, Zhiwei Hu, Sixuan She, Chien-Te Chen, Ran Ran, Wei Zhou, Zongping Shao  
@@ -1121,6 +1137,25 @@ This page was generated automatically.
 **DOI:** [10.1002/adma.202305074](https://doi.org/10.1002/adma.202305074)  
 
 **Citation Link:** [https://doi.org/10.1002/ADMA.202305074](https://doi.org/10.1002/ADMA.202305074)  
+
+
+
+---
+
+### Identifying a Universal Activity Descriptor and a Unifying Mechanism Concept on Perovskite Oxides for Green Hydrogen Production
+
+**Authors:** Daqin Guan, Hengyue Xu, Qingwen Zhang, Yu‐Cheng Huang, Chenliang Shi, Yu‐Chung Chang, Xiaomin Xu, Jiayi Tang, Yuxing Gu, Chih‐Wen Pao, Shu‐Chih Haw, Jin‐Ming Chen, Zhiwei Hu, Meng Ni, Zongping Shao  
+
+**Journal:** Advanced Materials  
+
+**Published Date:** 2023-9-22  
+
+**DOI:** [10.1002/adma.202305074](https://doi.org/10.1002/adma.202305074)  
+
+**Citation Link:** [https://doi.org/10.1002/adma.202305074](https://doi.org/10.1002/adma.202305074)  
+
+
+**Abstract:** <jats:title>Abstract</jats:title><jats:p>Producing indispensable hydrogen and oxygen for social development via water electrolysis shows more prospects than other technologies. Although electrocatalysts have been explored for centuries, a universal activity descriptor for both hydrogen‐evolution reaction (HER) and oxygen‐evolution reaction (OER) is not yet developed. Moreover, a unifying concept is not yet established to simultaneously understand HER/OER mechanisms. Here, the relationships between HER/OER activities in three common electrolytes and over ten representative material properties on 12 3d‐metal‐based model oxides are rationally bridged through statistical methodologies. The orbital charge‐transfer energy (Δ) can serve as an ideal universal descriptor, where a neither too large nor too small Δ (≈1 eV) with optimal electron‐cloud density around Fermi level affords the best activities, fulfilling Sabatier's principle. Systematic experiments and computations unravel that pristine oxide with Δ ≈ 1 eV possesses metal‐like high‐valence configurations and active lattice‐oxygen sites to help adsorb key protons in HER and induce lattice‐oxygen participation in the OER, respectively. After reactions, partially generated metals in the HER and high‐valence hydroxides in the OER dominate proton adsorption and couple with pristine lattice‐oxygen activation, respectively. These can be successfully rationalized by the unifying orbital charge‐transfer theory. This work provides the foundation of rational material design and mechanism understanding for many potential applications.</jats:p>
 
 
 
@@ -1206,6 +1241,22 @@ This page was generated automatically.
 
 ---
 
+### 3D nanothorn cluster-like Zn-Bi2S3 sensitized WO3/ZnO multijunction with electron-storage characteristic and adjustable energy band for improving sustained photoinduced cathodic protection application
+
+**Authors:** Yuying Yang, Mengmeng Sun, Zhuoyuan Chen, Hengyue Xu, Xiaohui Wang, Jizhou Duan, Baorong Hou  
+
+**Journal:** Chemical Engineering Journal  
+
+**Published Date:** 2023-2  
+
+**DOI:** [10.1016/j.cej.2023.141458](https://doi.org/10.1016/j.cej.2023.141458)  
+
+**Citation Link:** [https://doi.org/10.1016/j.cej.2023.141458](https://doi.org/10.1016/j.cej.2023.141458)  
+
+
+
+---
+
 ### Detection and treatment of biofilm-induced periodontitis by histidine-doped FeSN nanozyme with ultra-high peroxidase-like activity
 
 **Authors:** Bowen Shen, Lei Yang, Hengyue Xu, Yangheng Zhang, Dengming Ming, Liying Zhu, Yuxian Wang, Ling Jiang  
@@ -1222,25 +1273,6 @@ This page was generated automatically.
 
 ---
 
-### Identifying a Universal Activity Descriptor and a Unifying Mechanism Concept on Perovskite Oxides for Green Hydrogen Production
-
-**Authors:** Unknown  
-
-**Journal:** Advanced Materials  
-
-**Published Date:** 2023-11  
-
-**DOI:** [10.1002/adma.202305074](https://doi.org/10.1002/adma.202305074)  
-
-**Citation Link:** [https://doi.org/10.1002/adma.202305074](https://doi.org/10.1002/adma.202305074)  
-
-
-**Abstract:** <jats:title>Abstract</jats:title><jats:p>Producing indispensable hydrogen and oxygen for social development via water electrolysis shows more prospects than other technologies. Although electrocatalysts have been explored for centuries, a universal activity descriptor for both hydrogen‐evolution reaction (HER) and oxygen‐evolution reaction (OER) is not yet developed. Moreover, a unifying concept is not yet established to simultaneously understand HER/OER mechanisms. Here, the relationships between HER/OER activities in three common electrolytes and over ten representative material properties on 12 3d‐metal‐based model oxides are rationally bridged through statistical methodologies. The orbital charge‐transfer energy (Δ) can serve as an ideal universal descriptor, where a neither too large nor too small Δ (≈1 eV) with optimal electron‐cloud density around Fermi level affords the best activities, fulfilling Sabatier's principle. Systematic experiments and computations unravel that pristine oxide with Δ ≈ 1 eV possesses metal‐like high‐valence configurations and active lattice‐oxygen sites to help adsorb key protons in HER and induce lattice‐oxygen participation in the OER, respectively. After reactions, partially generated metals in the HER and high‐valence hydroxides in the OER dominate proton adsorption and couple with pristine lattice‐oxygen activation, respectively. These can be successfully rationalized by the unifying orbital charge‐transfer theory. This work provides the foundation of rational material design and mechanism understanding for many potential applications.</jats:p>
-
-
-
----
-
 ### Mesoporous Poly(3,4-ethylenedioxythiophene):Poly(styrenesulfonate) as Efficient Iodine Host for High-Performance Zinc–Iodine Batteries
 
 **Authors:** Facai Wei, Hengyue Xu, Tingting Zhang, Wenda Li, Lingyan Huang, Yonghui Peng, Haitao Guo, Yuexi Wang, Shaojian Guan, Jianwei Fu, Chengbin Jing, Jiangong Cheng, Shaohua Liu  
@@ -1252,22 +1284,6 @@ This page was generated automatically.
 **DOI:** [10.1021/acsnano.3c07868](https://doi.org/10.1021/acsnano.3c07868)  
 
 **Citation Link:** [https://doi.org/10.1021/acsnano.3c07868](https://doi.org/10.1021/acsnano.3c07868)  
-
-
-
----
-
-### 2D Mesoporous Naphthalene‐Based Conductive Heteroarchitectures toward Long‐Life, High‐Capacity Zinc‐Iodine Batteries
-
-**Authors:** Facai Wei, Tingting Zhang, Hengyue Xu, Yonghui Peng, Haitao Guo, Yuexi Wang, Shaojian Guan, Jianwei Fu, Chengbin Jing, Jiangong Cheng, Shaohua Liu  
-
-**Journal:** Advanced Functional Materials  
-
-**Published Date:** 2023-10-25  
-
-**DOI:** [10.1002/adfm.202310693](https://doi.org/10.1002/adfm.202310693)  
-
-**Citation Link:** [https://doi.org/10.1002/adfm.202310693](https://doi.org/10.1002/adfm.202310693)  
 
 
 
@@ -1300,22 +1316,6 @@ This page was generated automatically.
 **DOI:** [10.1002/smll.202206750](https://doi.org/10.1002/smll.202206750)  
 
 **Citation Link:** [https://doi.org/10.1002/smll.202206750](https://doi.org/10.1002/smll.202206750)  
-
-
-
----
-
-### 3D nanothorn cluster-like Zn-Bi2S3 sensitized WO3/ZnO multijunction with electron-storage characteristic and adjustable energy band for improving sustained photoinduced cathodic protection application
-
-**Authors:** Unknown  
-
-**Journal:** Chemical Engineering Journal  
-
-**Published Date:** 2023-02  
-
-**DOI:** [10.1016/j.cej.2023.141458](https://doi.org/10.1016/j.cej.2023.141458)  
-
-**Citation Link:** [https://doi.org/10.1016/j.cej.2023.141458](https://doi.org/10.1016/j.cej.2023.141458)  
 
 
 
@@ -1487,20 +1487,6 @@ This page was generated automatically.
 
 **DOI:** [10.26434/chemrxiv-2021-4d5f4](https://doi.org/10.26434/chemrxiv-2021-4d5f4)  
 
-**Citation Link:** [https://doi.org/10.26434/chemrxiv-2021-4d5f4-v2](https://doi.org/10.26434/chemrxiv-2021-4d5f4-v2)  
-
-
-
----
-
-### Hydrogen evolution reaction on Co-Ni core-shell nanoclusters in different sizes: A DFT investigation from geometric structures to electronic structures
-
-**Authors:** Hengyue Xu  
-
-**Published Date:** 2021-8-3  
-
-**DOI:** [10.26434/chemrxiv-2021-4d5f4](https://doi.org/10.26434/chemrxiv-2021-4d5f4)  
-
 **Citation Link:** [https://doi.org/10.26434/chemrxiv-2021-4d5f4](https://doi.org/10.26434/chemrxiv-2021-4d5f4)  
 
 
@@ -1516,6 +1502,20 @@ This page was generated automatically.
 **DOI:** [10.26434/chemrxiv-2021-09486](https://doi.org/10.26434/chemrxiv-2021-09486)  
 
 **Citation Link:** [https://doi.org/10.26434/chemrxiv-2021-09486](https://doi.org/10.26434/chemrxiv-2021-09486)  
+
+
+
+---
+
+### Hydrogen evolution reaction on Co-Ni core-shell nanoclusters in different sizes: A DFT investigation from geometric structures to electronic structures
+
+**Authors:** Unknown  
+
+**Published Date:** 2021-09-13  
+
+**DOI:** [10.26434/chemrxiv-2021-4d5f4-v2](https://doi.org/10.26434/chemrxiv-2021-4d5f4-v2)  
+
+**Citation Link:** [https://doi.org/10.26434/chemrxiv-2021-4d5f4-v2](https://doi.org/10.26434/chemrxiv-2021-4d5f4-v2)  
 
 
 
