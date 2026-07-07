@@ -6,22 +6,6 @@ This page was generated automatically.
 
 ---
 
-### Lattice‐Strained Cu2O‐Ni/NiO Heterostructure Enables Selective Electrocatalytic C–C Coupling of Alcohols to Cinnamaldehyde in Aqueous Medium
-
-**Authors:** Tian Cheng, Kaizhi Gu, Jiani Liu, Yujing Liu, Jianlong Wei, Zhaoling Ma, Hengyue Xu, Jia Zhang, Hanwen Liu, Yiqiong Zhang, Shuangyin Wang  
-
-**Journal:** ENERGY & ENVIRONMENTAL MATERIALS  
-
-**Published Date:** 2026-6-18  
-
-**DOI:** [10.1002/eem2.70462](https://doi.org/10.1002/eem2.70462)  
-
-**Citation Link:** [https://doi.org/10.1002/eem2.70462](https://doi.org/10.1002/eem2.70462)  
-
-
-
----
-
 ### Mechanistic insights into PET and PU degradation on bio-inspired dual-metal catalysts
 
 **Authors:** Heng-Yue Xu, Zhi-Wu Yu  
@@ -81,6 +65,22 @@ This page was generated automatically.
 **DOI:** [10.1021/acs.jpclett.5c03434](https://doi.org/10.1021/acs.jpclett.5c03434)  
 
 **Citation Link:** [https://doi.org/10.1021/acs.jpclett.5c03434](https://doi.org/10.1021/acs.jpclett.5c03434)  
+
+
+
+---
+
+### Lattice‐Strained Cu2O‐Ni/NiO Heterostructure Enables Selective Electrocatalytic C–C Coupling of Alcohols to Cinnamaldehyde in Aqueous Medium
+
+**Authors:** Unknown  
+
+**Journal:** ENERGY & ENVIRONMENTAL MATERIALS  
+
+**Published Date:** 2026-06-18  
+
+**DOI:** [10.1002/eem2.70462](https://doi.org/10.1002/eem2.70462)  
+
+**Citation Link:** [https://doi.org/10.1002/eem2.70462](https://doi.org/10.1002/eem2.70462)  
 
 
 
@@ -214,22 +214,6 @@ This page was generated automatically.
 
 ---
 
-### Heteroatom-Modulated Asymmetric Cobalt Single-Atom Catalysts on MOF-Derived Carbon Enabling Durable Zinc-Iodine Batteries
-
-**Authors:** Xiaotian Guo, Hengyue Xu, Ziming Qiu, Qian Li, Nana Li, Zhangbin Yang, Wenting Li, Yue Lian, Qing Li, Yanwei Sui, Mohsen Shakouri, Hsiao‐Chien Chen, Yizhou Zhang, Huan Pang  
-
-**Journal:** Advanced Materials  
-
-**Published Date:** 2025-8-23  
-
-**DOI:** [10.1002/adma.202514035](https://doi.org/10.1002/adma.202514035)  
-
-**Citation Link:** [https://doi.org/10.1002/ADMA.202514035](https://doi.org/10.1002/ADMA.202514035)  
-
-
-
----
-
 ### Supramolecular nanocrystalline membranes with well-aligned subnanochannels for enhanced reverse osmosis desalination
 
 **Authors:** Gang Lu, Wentao Shang, Xinyao Ma, Hengyue Xu, Hubao A, Jiawei Sun, Xiaolu Li, Mingyi Jia, Shuang Lu, Jun Wu, Xi Chen, Shensheng Chen, Jun Fan, Alicia Kyoungjin An  
@@ -358,22 +342,6 @@ This page was generated automatically.
 
 ---
 
-### MOF Derived Phosphide Nanocubes with Internal Heterojunction: A Study Powered by Single Entity Electrochemistry
-
-**Authors:** Zilong Chen, Hengyue Xu, Tingting Chen, Jiaqi Zhang, Songtao Zhang, Long Chen, Huan Pang, Zhongjie Huang  
-
-**Journal:** Nano Letters  
-
-**Published Date:** 2025-3-17  
-
-**DOI:** [10.1021/acs.nanolett.5c00233](https://doi.org/10.1021/acs.nanolett.5c00233)  
-
-**Citation Link:** [https://doi.org/10.1021/acs.nanolett.5c00233](https://doi.org/10.1021/acs.nanolett.5c00233)  
-
-
-
----
-
 ### MnxCo3-xO4 spinel activates peroxymonosulfate for highly effective bisphenol A degradation with ultralow catalyst and persulfate usage
 
 **Authors:** Lu-Lu Zhou, Hengyue Xu, Yi-Han Sheng, Wei-Kang Wang, Juan Xu  
@@ -385,22 +353,6 @@ This page was generated automatically.
 **DOI:** [10.1016/j.jhazmat.2024.136826](https://doi.org/10.1016/j.jhazmat.2024.136826)  
 
 **Citation Link:** [https://doi.org/10.1016/j.jhazmat.2024.136826](https://doi.org/10.1016/j.jhazmat.2024.136826)  
-
-
-
----
-
-### Electron-Withdrawing Hexagonal Boron Nitride as a Biocompatible and Metal-Free Antibacterial Platform
-
-**Authors:** Jianxiang Gao, Hengyue Xu, Yingcan Zhao, Linxuan Sun, Xi Zhang, Yichao Bai, Wenbo Li, Mingchuang Zhao, Haoqi He, Xudong Liu, Qiangmin Yu, Vijay Pandey, Lan Ma, Feiyu Kang, Mauricio Terrones, Yu Lei  
-
-**Journal:** Nano Letters  
-
-**Published Date:** 2025-2-21  
-
-**DOI:** [10.1021/acs.nanolett.4c05984](https://doi.org/10.1021/acs.nanolett.4c05984)  
-
-**Citation Link:** [https://doi.org/10.1021/acs.nanolett.4c05984](https://doi.org/10.1021/acs.nanolett.4c05984)  
 
 
 
@@ -550,22 +502,6 @@ This page was generated automatically.
 
 ---
 
-### Design principles of underpotential deposition chemistry for highly reversible multivalent metal anodes
-
-**Authors:** Yu Zhang, Yanzeng Ge, Hengyue Xu, Si Tang, Jing Li, Hui Zhang, Xinlong Tian, Jinlin Yang  
-
-**Journal:** Energy Storage Materials  
-
-**Published Date:** 2025-1  
-
-**DOI:** [10.1016/j.ensm.2024.103991](https://doi.org/10.1016/j.ensm.2024.103991)  
-
-**Citation Link:** [https://doi.org/10.1016/j.ensm.2024.103991](https://doi.org/10.1016/j.ensm.2024.103991)  
-
-
-
----
-
 ### Emerging insights into the application of metal-organic framework (MOF)-based materials for electrochemical heavy metal ion detection
 
 **Authors:** Xiaotian Guo, Siyi Feng, Yi Peng, Bing Li, Jingwen Zhao, Hengyue Xu, Xiangren Meng, Weiwei Zhai, Huan Pang  
@@ -598,6 +534,70 @@ This page was generated automatically.
 
 ---
 
+### MOF Derived Phosphide Nanocubes with Internal Heterojunction: A Study Powered by Single Entity Electrochemistry
+
+**Authors:** Unknown  
+
+**Journal:** Nano Letters  
+
+**Published Date:** 2025-03-26  
+
+**DOI:** [10.1021/acs.nanolett.5c00233.s001](https://doi.org/10.1021/acs.nanolett.5c00233.s001)  
+
+**Citation Link:** [https://doi.org/10.1021/acs.nanolett.5c00233](https://doi.org/10.1021/acs.nanolett.5c00233)  
+
+
+
+---
+
+### Electron-Withdrawing Hexagonal Boron Nitride as a Biocompatible and Metal-Free Antibacterial Platform
+
+**Authors:** Unknown  
+
+**Journal:** Nano Letters  
+
+**Published Date:** 2025-03-05  
+
+**DOI:** [10.1021/acs.nanolett.4c05984.s001](https://doi.org/10.1021/acs.nanolett.4c05984.s001)  
+
+**Citation Link:** [https://doi.org/10.1021/acs.nanolett.4c05984](https://doi.org/10.1021/acs.nanolett.4c05984)  
+
+
+
+---
+
+### Calcium Carbonate as an Ionic Molecular Lock for Ultrastrong Fluorescence of Single Organic Molecules
+
+**Authors:** Unknown  
+
+**Journal:** Angewandte Chemie International Edition  
+
+**Published Date:** 2025-01-15  
+
+**DOI:** [10.1002/anie.202415664](https://doi.org/10.1002/anie.202415664)  
+
+**Citation Link:** [https://doi.org/10.1002/anie.202415664](https://doi.org/10.1002/anie.202415664)  
+
+
+
+---
+
+### Design principles of underpotential deposition chemistry for highly reversible multivalent metal anodes
+
+**Authors:** Unknown  
+
+**Journal:** Energy Storage Materials  
+
+**Published Date:** 2025-01  
+
+**DOI:** [10.1016/j.ensm.2024.103991](https://doi.org/10.1016/j.ensm.2024.103991)  
+
+**Citation Link:** [https://doi.org/10.1016/j.ensm.2024.103991](https://doi.org/10.1016/j.ensm.2024.103991)  
+
+
+
+---
+
 ### Regulation of Rh Single-Atom Coordination for Enhanced Reverse Hydrogen Spillover and Efficient Electrochemical Dechlorination
 
 **Authors:** Unknown  
@@ -609,6 +609,22 @@ This page was generated automatically.
 **DOI:** [10.1021/jacs.5c18184.s001](https://doi.org/10.1021/jacs.5c18184.s001)  
 
 **Citation Link:** [https://doi.org/10.1021/JACS.5C18184](https://doi.org/10.1021/JACS.5C18184)  
+
+
+
+---
+
+### Heteroatom-Modulated Asymmetric Cobalt Single-Atom Catalysts on MOF-Derived Carbon Enabling Durable Zinc-Iodine Batteries
+
+**Authors:** Unknown  
+
+**Journal:** Advanced Materials  
+
+**Published Date:** 2025  
+
+**DOI:** [10.1002/ADMA.202514035](https://doi.org/10.1002/ADMA.202514035)  
+
+**Citation Link:** [https://doi.org/10.1002/ADMA.202514035](https://doi.org/10.1002/ADMA.202514035)  
 
 
 
@@ -862,7 +878,7 @@ This page was generated automatically.
 
 **Published Date:** 2024-4-4  
 
-**DOI:** [10.1002/anie.202401386](https://doi.org/10.1002/anie.202401386)  
+**DOI:** [10.1002/ange.202401386](https://doi.org/10.1002/ange.202401386)  
 
 **Citation Link:** [https://doi.org/10.1002/ange.202401386](https://doi.org/10.1002/ange.202401386)  
 
@@ -945,22 +961,6 @@ This page was generated automatically.
 **DOI:** [10.1002/adma.202413073](https://doi.org/10.1002/adma.202413073)  
 
 **Citation Link:** [https://doi.org/10.1002/adma.202413073](https://doi.org/10.1002/adma.202413073)  
-
-
-
----
-
-### Calcium Carbonate as an Ionic Molecular Lock for Ultrastrong Fluorescence of Single Organic Molecules
-
-**Authors:** Jian Zhang, Hengyue Xu, Weifeng Fang, Xin Liu, Haoke Zhang, Ruikang Tang, Zhaoming Liu  
-
-**Journal:** Angewandte Chemie International Edition  
-
-**Published Date:** 2024-11-16  
-
-**DOI:** [10.1002/anie.202415664](https://doi.org/10.1002/anie.202415664)  
-
-**Citation Link:** [https://doi.org/10.1002/anie.202415664](https://doi.org/10.1002/anie.202415664)  
 
 
 
@@ -1355,13 +1355,13 @@ This page was generated automatically.
 
 ### The bio-inspired heterogeneous single-cluster catalyst Ni100–Fe4S4 for enhanced electrochemical CO2 reduction to CH4
 
-**Authors:** Hengyue Xu, Lan Ma  
+**Authors:** Unknown  
 
 **Journal:** Nanoscale  
 
-**Published Date:** 2022-9-2  
+**Published Date:** 2023  
 
-**DOI:** [10.26434/chemrxiv-2022-dhj14](https://doi.org/10.26434/chemrxiv-2022-dhj14)  
+**DOI:** [10.1039/D2NR06665C](https://doi.org/10.1039/D2NR06665C)  
 
 **Citation Link:** [https://doi.org/10.1039/D2NR06665C](https://doi.org/10.1039/D2NR06665C)  
 
