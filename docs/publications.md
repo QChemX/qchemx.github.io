@@ -54,6 +54,22 @@ This page was generated automatically.
 
 ---
 
+### Mechanistic insights into PET and PU degradation on bio-inspired dual-metal catalysts
+
+**Authors:** Heng-Yue Xu, Zhi-Wu Yu  
+
+**Journal:** Nano Research  
+
+**Published Date:** 2026-4  
+
+**DOI:** [10.26599/nr.2026.94908386](https://doi.org/10.26599/nr.2026.94908386)  
+
+**Citation Link:** [https://doi.org/10.26599/NR.2026.94908386](https://doi.org/10.26599/NR.2026.94908386)  
+
+
+
+---
+
 ### An asymmetric photothermal platform for coupled seawater splitting and desalination
 
 **Authors:** Jingkai Lin, Hengyue Xu, Wenjie Tian, Hongqi Sun, Huayang Zhang, Shaobin Wang  
@@ -81,6 +97,22 @@ This page was generated automatically.
 **DOI:** [10.1002/adma.72904](https://doi.org/10.1002/adma.72904)  
 
 **Citation Link:** [https://doi.org/10.1002/adma.72904](https://doi.org/10.1002/adma.72904)  
+
+
+
+---
+
+### Bio-Inspired Curvature Engineering across the Periodic Table Tunes Hydrogen Adsorption in Single-Atom Catalysts
+
+**Authors:** Hengyue Xu  
+
+**Journal:** The Journal of Physical Chemistry Letters  
+
+**Published Date:** 2026-1-3  
+
+**DOI:** [10.1021/acs.jpclett.5c03434](https://doi.org/10.1021/acs.jpclett.5c03434)  
+
+**Citation Link:** [https://doi.org/10.1021/acs.jpclett.5c03434](https://doi.org/10.1021/acs.jpclett.5c03434)  
 
 
 
@@ -142,41 +174,9 @@ This page was generated automatically.
 
 **Published Date:** 2026-01-21  
 
-**DOI:** [10.1021/jacs.5c17976.s001](https://doi.org/10.1021/jacs.5c17976.s001)  
+**DOI:** [10.1021/jacs.5c17976](https://doi.org/10.1021/jacs.5c17976)  
 
 **Citation Link:** [https://doi.org/10.1021/jacs.5c17976](https://doi.org/10.1021/jacs.5c17976)  
-
-
-
----
-
-### Bio-Inspired Curvature Engineering across the Periodic Table Tunes Hydrogen Adsorption in Single-Atom Catalysts
-
-**Authors:** Unknown  
-
-**Journal:** The Journal of Physical Chemistry Letters  
-
-**Published Date:** 2026-01-15  
-
-**DOI:** [10.1021/acs.jpclett.5c03434.s001](https://doi.org/10.1021/acs.jpclett.5c03434.s001)  
-
-**Citation Link:** [https://doi.org/10.1021/acs.jpclett.5c03434](https://doi.org/10.1021/acs.jpclett.5c03434)  
-
-
-
----
-
-### Mechanistic insights into PET and PU degradation on bio-inspired dual-metal catalysts
-
-**Authors:** Unknown  
-
-**Journal:** Nano Research  
-
-**Published Date:** 2026  
-
-**DOI:** [10.26599/NR.2026.94908386](https://doi.org/10.26599/NR.2026.94908386)  
-
-**Citation Link:** [https://doi.org/10.26599/NR.2026.94908386](https://doi.org/10.26599/NR.2026.94908386)  
 
 
 
@@ -193,22 +193,6 @@ This page was generated automatically.
 **DOI:** [10.1002/adfm.202517710](https://doi.org/10.1002/adfm.202517710)  
 
 **Citation Link:** [https://doi.org/10.1002/adfm.202517710](https://doi.org/10.1002/adfm.202517710)  
-
-
-
----
-
-### Engineering nanopore in monolayer WS 2 for single-molecule imaging on the atomic-scale flat 2D surfaces
-
-**Authors:** Haoqi He, Mingchuang Zhao, Hengyue Xu, Liang Chang, Yuyuan Jiang, Yichao Bai, Cong Wang, Huiyu Nong, Lan Ma, Lin Gan, Tianyi Zhang, Feiyu Kang, Bilu Liu, Yu Lei  
-
-**Journal:** Science Advances  
-
-**Published Date:** 2025-9-19  
-
-**DOI:** [10.1126/sciadv.ady2148](https://doi.org/10.1126/sciadv.ady2148)  
-
-**Citation Link:** [https://doi.org/10.1126/sciadv.ady2148](https://doi.org/10.1126/sciadv.ady2148)  
 
 
 
@@ -246,33 +230,33 @@ This page was generated automatically.
 
 ---
 
-### Application of Metal‐Organic Framework Composites
+### Supramolecular nanocrystalline membranes with well-aligned subnanochannels for enhanced reverse osmosis desalination
 
-**Authors:** Yihao Chen, Hengyue Xu, Jiakang Shi, Yichun Su, Xudong Chen, Huan Pang  
+**Authors:** Gang Lu, Wentao Shang, Xinyao Ma, Hengyue Xu, Hubao A, Jiawei Sun, Xiaolu Li, Mingyi Jia, Shuang Lu, Jun Wu, Xi Chen, Shensheng Chen, Jun Fan, Alicia Kyoungjin An  
 
-**Journal:** ChemistryEurope  
+**Journal:** Nature Communications  
 
-**Published Date:** 2025-8-8  
+**Published Date:** 2025-7-8  
 
-**DOI:** [10.1002/ceur.202500078](https://doi.org/10.1002/ceur.202500078)  
+**DOI:** [10.1038/s41467-025-61352-6](https://doi.org/10.1038/s41467-025-61352-6)  
 
-**Citation Link:** [https://doi.org/10.1002/ceur.202500078](https://doi.org/10.1002/ceur.202500078)  
+**Citation Link:** [https://doi.org/10.1038/s41467-025-61352-6](https://doi.org/10.1038/s41467-025-61352-6)  
 
 
 
 ---
 
-### Heteroatom-Modulated Asymmetric Cobalt Single-Atom Catalysts on MOF-Derived Carbon Enabling Durable Zinc-Iodine Batteries
+### Deciphering SN2-Type Nucleophilic Substitution via Halogen-Free Intermediates for High-Energy Zinc–Iodine Batteries
 
-**Authors:** Xiaotian Guo, Hengyue Xu, Ziming Qiu, Qian Li, Nana Li, Zhangbin Yang, Wenting Li, Yue Lian, Qing Li, Yanwei Sui, Mohsen Shakouri, Hsiao‐Chien Chen, Yizhou Zhang, Huan Pang  
+**Authors:** Zhehan Yi, Hengyue Xu, Jin-Lin Yang, Jia Li, Tao Xiao, Hao Chen, Cheng Jiang, Hong Li, Seok Woo Lee, Hong Jin Fan  
 
-**Journal:** Advanced Materials  
+**Journal:** Journal of the American Chemical Society  
 
-**Published Date:** 2025-8-23  
+**Published Date:** 2025-7-22  
 
-**DOI:** [10.1002/adma.202514035](https://doi.org/10.1002/adma.202514035)  
+**DOI:** [10.1021/jacs.5c08469](https://doi.org/10.1021/jacs.5c08469)  
 
-**Citation Link:** [https://doi.org/10.1002/ADMA.202514035](https://doi.org/10.1002/ADMA.202514035)  
+**Citation Link:** [https://doi.org/10.1021/jacs.5c08469](https://doi.org/10.1021/jacs.5c08469)  
 
 
 
@@ -326,22 +310,6 @@ This page was generated automatically.
 
 ---
 
-### Decoupling Redox Kinetics with Complementary d-Band Catalysis for High-Performance Lithium–Sulfur Batteries
-
-**Authors:** Wei Xiao, Kisoo Yoo, Jong-Hoon Kim, Hengyue Xu  
-
-**Journal:** ACS Nano  
-
-**Published Date:** 2025-6-17  
-
-**DOI:** [10.1021/acsnano.5c05449](https://doi.org/10.1021/acsnano.5c05449)  
-
-**Citation Link:** [https://doi.org/10.1021/acsnano.5c05449](https://doi.org/10.1021/acsnano.5c05449)  
-
-
-
----
-
 ### Nano-confined controllable crystallization in supramolecular polymeric membranes for ultra-selective desalination
 
 **Authors:** Gang Lu, Hubao A, Yuanyuan Zhao, Yan Zhao, Hengyue Xu, Wentao Shang, Xi Chen, Jiawei Sun, Huacheng Zhang, Jun Wu, Bing Dai, Bart Van der Bruggen, Raf Dewil, Alicia Kyoungjin An, Shuang Zheng  
@@ -353,6 +321,22 @@ This page was generated automatically.
 **DOI:** [10.1038/s41467-025-57353-0](https://doi.org/10.1038/s41467-025-57353-0)  
 
 **Citation Link:** [https://doi.org/10.1038/s41467-025-57353-0](https://doi.org/10.1038/s41467-025-57353-0)  
+
+
+
+---
+
+### MOF Derived Phosphide Nanocubes with Internal Heterojunction: A Study Powered by Single Entity Electrochemistry
+
+**Authors:** Zilong Chen, Hengyue Xu, Tingting Chen, Jiaqi Zhang, Songtao Zhang, Long Chen, Huan Pang, Zhongjie Huang  
+
+**Journal:** Nano Letters  
+
+**Published Date:** 2025-3-17  
+
+**DOI:** [10.1021/acs.nanolett.5c00233](https://doi.org/10.1021/acs.nanolett.5c00233)  
+
+**Citation Link:** [https://doi.org/10.1021/acs.nanolett.5c00233](https://doi.org/10.1021/acs.nanolett.5c00233)  
 
 
 
@@ -470,6 +454,22 @@ This page was generated automatically.
 
 ---
 
+### Application of Metal‐Organic Framework Composites
+
+**Authors:** Unknown  
+
+**Journal:** ChemistryEurope  
+
+**Published Date:** 2025-11-11  
+
+**DOI:** [10.1002/ceur.202500078](https://doi.org/10.1002/ceur.202500078)  
+
+**Citation Link:** [https://doi.org/10.1002/ceur.202500078](https://doi.org/10.1002/ceur.202500078)  
+
+
+
+---
+
 ### High-dimensional strain unlocks fast polysulfide redox kinetics for lithium-sulfur batteries
 
 **Authors:** Jin-Lin Yang, Hengyue Xu, Tao Xiao, Jia Li, Wenqi Yan, Tao Zhang, Hong Jin Fan  
@@ -534,6 +534,38 @@ This page was generated automatically.
 
 ---
 
+### Emerging insights into the application of metal-organic framework (MOF)-based materials for electrochemical heavy metal ion detection
+
+**Authors:** Xiaotian Guo, Siyi Feng, Yi Peng, Bing Li, Jingwen Zhao, Hengyue Xu, Xiangren Meng, Weiwei Zhai, Huan Pang  
+
+**Journal:** Food Chemistry  
+
+**Published Date:** 2025-1  
+
+**DOI:** [10.1016/j.foodchem.2024.141387](https://doi.org/10.1016/j.foodchem.2024.141387)  
+
+**Citation Link:** [https://doi.org/10.1016/j.foodchem.2024.141387](https://doi.org/10.1016/j.foodchem.2024.141387)  
+
+
+
+---
+
+### Engineering nanopore in monolayer WS 2 for single-molecule imaging on the atomic-scale flat 2D surfaces
+
+**Authors:** Unknown  
+
+**Journal:** Science Advances  
+
+**Published Date:** 2025-09-19  
+
+**DOI:** [10.1126/sciadv.ady2148](https://doi.org/10.1126/sciadv.ady2148)  
+
+**Citation Link:** [https://doi.org/10.1126/sciadv.ady2148](https://doi.org/10.1126/sciadv.ady2148)  
+
+
+
+---
+
 ### Balanced Iodophilicity and Solvophilicity Unlocks Fast Iodine Conversion Chemistry
 
 **Authors:** Unknown  
@@ -542,7 +574,7 @@ This page was generated automatically.
 
 **Published Date:** 2025-08-13  
 
-**DOI:** [10.1021/jacs.5c05786](https://doi.org/10.1021/jacs.5c05786)  
+**DOI:** [10.1021/jacs.5c05786.s001](https://doi.org/10.1021/jacs.5c05786.s001)  
 
 **Citation Link:** [https://doi.org/10.1021/jacs.5c05786](https://doi.org/10.1021/jacs.5c05786)  
 
@@ -550,33 +582,17 @@ This page was generated automatically.
 
 ---
 
-### Deciphering SN2-Type Nucleophilic Substitution via Halogen-Free Intermediates for High-Energy Zinc–Iodine Batteries
+### Decoupling Redox Kinetics with Complementary d-Band Catalysis for High-Performance Lithium–Sulfur Batteries
 
 **Authors:** Unknown  
 
-**Journal:** Journal of the American Chemical Society  
+**Journal:** ACS Nano  
 
-**Published Date:** 2025-07-30  
+**Published Date:** 2025-07-01  
 
-**DOI:** [10.1021/jacs.5c08469](https://doi.org/10.1021/jacs.5c08469)  
+**DOI:** [10.1021/acsnano.5c05449](https://doi.org/10.1021/acsnano.5c05449)  
 
-**Citation Link:** [https://doi.org/10.1021/jacs.5c08469](https://doi.org/10.1021/jacs.5c08469)  
-
-
-
----
-
-### Supramolecular nanocrystalline membranes with well-aligned subnanochannels for enhanced reverse osmosis desalination
-
-**Authors:** Unknown  
-
-**Journal:** Nature Communications  
-
-**Published Date:** 2025-07-08  
-
-**DOI:** [10.1038/s41467-025-61352-6](https://doi.org/10.1038/s41467-025-61352-6)  
-
-**Citation Link:** [https://doi.org/10.1038/s41467-025-61352-6](https://doi.org/10.1038/s41467-025-61352-6)  
+**Citation Link:** [https://doi.org/10.1021/acsnano.5c05449](https://doi.org/10.1021/acsnano.5c05449)  
 
 
 
@@ -598,33 +614,33 @@ This page was generated automatically.
 
 ---
 
-### MOF Derived Phosphide Nanocubes with Internal Heterojunction: A Study Powered by Single Entity Electrochemistry
+### Operando Studies Redirect Spatiotemporal Restructuration of Model Coordinated Oxides in Electrochemical Oxidation
 
 **Authors:** Unknown  
 
-**Journal:** Nano Letters  
+**Journal:** Advanced Materials  
 
-**Published Date:** 2025-03-26  
+**Published Date:** 2025-02  
 
-**DOI:** [10.1021/acs.nanolett.5c00233](https://doi.org/10.1021/acs.nanolett.5c00233)  
+**DOI:** [10.1002/adma.202413073](https://doi.org/10.1002/adma.202413073)  
 
-**Citation Link:** [https://doi.org/10.1021/acs.nanolett.5c00233](https://doi.org/10.1021/acs.nanolett.5c00233)  
+**Citation Link:** [https://doi.org/10.1002/adma.202413073](https://doi.org/10.1002/adma.202413073)  
 
 
 
 ---
 
-### Emerging insights into the application of metal-organic framework (MOF)-based materials for electrochemical heavy metal ion detection
+### Elucidating Confinement and Microenvironment of Ru Clusters Stably Confined in MFI Zeolite for Efficient Propane Oxidation
 
 **Authors:** Unknown  
 
-**Journal:** Food Chemistry  
+**Journal:** Angewandte Chemie  
 
-**Published Date:** 2025-01  
+**Published Date:** 2025-01-27  
 
-**DOI:** [10.1016/j.foodchem.2024.141387](https://doi.org/10.1016/j.foodchem.2024.141387)  
+**DOI:** [10.1002/ange.202417618](https://doi.org/10.1002/ange.202417618)  
 
-**Citation Link:** [https://doi.org/10.1016/j.foodchem.2024.141387](https://doi.org/10.1016/j.foodchem.2024.141387)  
+**Citation Link:** [https://doi.org/10.1002/ange.202417618](https://doi.org/10.1002/ange.202417618)  
 
 
 
@@ -646,15 +662,31 @@ This page was generated automatically.
 
 ---
 
+### Heteroatom-Modulated Asymmetric Cobalt Single-Atom Catalysts on MOF-Derived Carbon Enabling Durable Zinc-Iodine Batteries
+
+**Authors:** Unknown  
+
+**Journal:** Advanced Materials  
+
+**Published Date:** 2025  
+
+**DOI:** [10.1002/ADMA.202514035](https://doi.org/10.1002/ADMA.202514035)  
+
+**Citation Link:** [https://doi.org/10.1002/ADMA.202514035](https://doi.org/10.1002/ADMA.202514035)  
+
+
+
+---
+
 ### Interfacial supramolecular interactions regulated oligomer networking into robust sub-nanochannels for efficient osmotic energy conversion
 
-**Authors:** Gang Lu, Hubao A, Hengyue Xu, Yan Zhao, Yuanyuan Zhao, Huacheng Zhang, Raf Dewil, Bart Van der Bruggen, Shuang Zheng  
+**Authors:** Unknown  
 
 **Journal:** Energy & Environmental Science  
 
 **Published Date:** 2025  
 
-**DOI:** [10.1039/d5ee03350k](https://doi.org/10.1039/d5ee03350k)  
+**DOI:** [10.1039/D5EE03350K](https://doi.org/10.1039/D5EE03350K)  
 
 **Citation Link:** [https://doi.org/10.1039/D5EE03350K](https://doi.org/10.1039/D5EE03350K)  
 
@@ -664,13 +696,13 @@ This page was generated automatically.
 
 ### Polyoxometalate-mediated confined self-assembly of sandwich-structured mesoporous polymer@rGO for high-performance aqueous zinc–iodine batteries
 
-**Authors:** Unknown  
+**Authors:** Wenyang Lu, Lebing Liu, Weibo Gong, Hengyue Xu, FengYang Xie, Xingrui Ji, Tingting Zhang, Shaohua Liu, Facai Wei, Chunxian Guo  
 
 **Journal:** Chemical Communications  
 
 **Published Date:** 2025  
 
-**DOI:** [10.1039/D5CC03153B](https://doi.org/10.1039/D5CC03153B)  
+**DOI:** [10.1039/d5cc03153b](https://doi.org/10.1039/d5cc03153b)  
 
 **Citation Link:** [https://doi.org/10.1039/D5CC03153B](https://doi.org/10.1039/D5CC03153B)  
 
@@ -710,6 +742,22 @@ This page was generated automatically.
 
 ---
 
+### Size Confinement Strategy Effect Enables Advanced Aqueous Zinc–Iodine Batteries
+
+**Authors:** Nana Li, Zhangbin Yang, Yong Li, Dianheng Yu, Tao Pan, Yihao Chen, Wenting Li, Hengyue Xu, Xiaotian Guo, Huan Pang  
+
+**Journal:** Advanced Energy Materials  
+
+**Published Date:** 2024-8-6  
+
+**DOI:** [10.1002/aenm.202402846](https://doi.org/10.1002/aenm.202402846)  
+
+**Citation Link:** [https://doi.org/10.1002/aenm.202402846](https://doi.org/10.1002/aenm.202402846)  
+
+
+
+---
+
 ### Ultralong K0.5Mn0.75PS3 Nanowires Tailored by K‐Ion Scissors for Extraordinary Sodium‐Ion Storage
 
 **Authors:** Xueyang Tu, Hengyue Xu, Youtan Pan, Zhuoran Lv, Linlin Wang, Bingyi Zhu, Tianquan Lin, Hui Bi, Yuqiang Fang, Fuqiang Huang  
@@ -742,38 +790,6 @@ This page was generated automatically.
 
 ---
 
-### Synergistic Bulk and Surface Engineering for Expeditious and Durable Reversible Protonic Ceramic Electrochemical Cells Air Electrode
-
-**Authors:** Xi Chen, Na Yu, Yufei Song, Tong Liu, Hengyue Xu, Daqin Guan, Zheng Li, Wei‐Hsiang Huang, Zongping Shao, Francesco Ciucci, Meng Ni  
-
-**Journal:** Advanced Materials  
-
-**Published Date:** 2024-6-4  
-
-**DOI:** [10.1002/adma.202403998](https://doi.org/10.1002/adma.202403998)  
-
-**Citation Link:** [https://doi.org/10.1002/adma.202403998](https://doi.org/10.1002/adma.202403998)  
-
-
-
----
-
-### Design principle and synthetic strategy for metal-organic framework composites
-
-**Authors:** Zizhou Shen, Yi Peng, Xia Li, Nana Li, Hengyue Xu, Wenting Li, Xiaotian Guo, Huan Pang  
-
-**Journal:** Composites Communications  
-
-**Published Date:** 2024-6  
-
-**DOI:** [10.1016/j.coco.2024.101933](https://doi.org/10.1016/j.coco.2024.101933)  
-
-**Citation Link:** [https://doi.org/10.1016/j.coco.2024.101933](https://doi.org/10.1016/j.coco.2024.101933)  
-
-
-
----
-
 ### Tailoring the Electrochemical Responses of MOF‐74 Via Dual‐Defect Engineering for Superior Energy Storage
 
 **Authors:** Tingting Chen, Hengyue Xu, Shaopeng Li, Jiaqi Zhang, Zhicheng Tan, Long Chen, Yiwang Chen, Zhongjie Huang, Huan Pang  
@@ -790,33 +806,33 @@ This page was generated automatically.
 
 ---
 
-### Cobalt Single‐Atom Reverse Hydrogen Spillover for Efficient Electrochemical Water Dissociation and Dechlorination
+### Vanadium Single Atoms Embedded in MoS2 Enabled Gut‐Brain Axis Neurotransmitter Detection at pM Levels
 
-**Authors:** Qian Zheng, Hengyue Xu, Yancai Yao, Jie Dai, Jiaxian Wang, Wei Hou, Long Zhao, Xingyue Zou, Guangming Zhan, Ruizhao Wang, Kaiyuan Wang, Lizhi Zhang  
+**Authors:** Linxuan Sun, Hengyue Xu, Yichao Bai, Liang Chang, Jianxiang Gao, Mingchuang Zhao, Arthur Tran Huang, Lan Ma, Yu Lei, Feiyu Kang, Mauricio Terrones  
 
-**Journal:** Angewandte Chemie  
+**Journal:** Small  
 
-**Published Date:** 2024-4-4  
+**Published Date:** 2024-5-22  
 
-**DOI:** [10.1002/ange.202401386](https://doi.org/10.1002/ange.202401386)  
+**DOI:** [10.1002/smll.202307410](https://doi.org/10.1002/smll.202307410)  
 
-**Citation Link:** [https://doi.org/10.1002/ange.202401386](https://doi.org/10.1002/ange.202401386)  
+**Citation Link:** [https://doi.org/10.1002/smll.202307410](https://doi.org/10.1002/smll.202307410)  
 
 
 
 ---
 
-### How alginate lyase produces quasi-monodisperse oligosaccharides: A normal-mode-based docking and molecular dynamics simulation study
+### Interfacial electron interactions governed photoactivity and selectivity evolution of carbon dioxide photoreduction with spinel cobalt oxide based hollow hetero-nanocubes
 
-**Authors:** Hengyue Xu, Qi Gao, Lu Li, Ting Su, Dengming Ming  
+**Authors:** Chao Cheng, Hengyue Xu, Maomao Ni, Changfa Guo, Yuanyuan Zhao, Yong Hu  
 
-**Journal:** Carbohydrate Research  
+**Journal:** Applied Catalysis B: Environmental  
 
-**Published Date:** 2024-2  
+**Published Date:** 2024-5  
 
-**DOI:** [10.1016/j.carres.2024.109022](https://doi.org/10.1016/j.carres.2024.109022)  
+**DOI:** [10.1016/j.apcatb.2024.123705](https://doi.org/10.1016/j.apcatb.2024.123705)  
 
-**Citation Link:** [https://doi.org/10.1016/j.carres.2024.109022](https://doi.org/10.1016/j.carres.2024.109022)  
+**Citation Link:** [https://doi.org/10.1016/j.apcatb.2024.123705](https://doi.org/10.1016/j.apcatb.2024.123705)  
 
 
 
@@ -833,38 +849,6 @@ This page was generated automatically.
 **DOI:** [10.1002/ange.202417618](https://doi.org/10.1002/ange.202417618)  
 
 **Citation Link:** [https://doi.org/10.1002/anie.202417618](https://doi.org/10.1002/anie.202417618)  
-
-
-
----
-
-### Elucidating Confinement and Microenvironment of Ru Clusters Stably Confined in MFI Zeolite for Efficient Propane Oxidation
-
-**Authors:** Jingjing Wang, Zeyu Jiang, Hengyue Xu, Xinzhe Li, Yanfei Jian, Lianghui Xia, Pei Su, Qiyuan Liu, Shouning Chai, Mudi Ma, Abdallah Amedlous, Mathias Barreau, Zhengping Hao, Jiaguo Yu, Chi He  
-
-**Journal:** Angewandte Chemie  
-
-**Published Date:** 2024-12-13  
-
-**DOI:** [10.1002/ange.202417618](https://doi.org/10.1002/ange.202417618)  
-
-**Citation Link:** [https://doi.org/10.1002/ange.202417618](https://doi.org/10.1002/ange.202417618)  
-
-
-
----
-
-### Operando Studies Redirect Spatiotemporal Restructuration of Model Coordinated Oxides in Electrochemical Oxidation
-
-**Authors:** Daqin Guan, Hengyue Xu, Yu‐Cheng Huang, Chao Jing, Yoshihiro Tsujimoto, Xiaomin Xu, Zezhou Lin, Jiayi Tang, Zehua Wang, Xiao Sun, Leqi Zhao, Hanwen Liu, Shangheng Liu, Chien‐Te Chen, Chih‐Wen Pao, Meng Ni, Zhiwei Hu, Zongping Shao  
-
-**Journal:** Advanced Materials  
-
-**Published Date:** 2024-12  
-
-**DOI:** [10.1002/adma.202413073](https://doi.org/10.1002/adma.202413073)  
-
-**Citation Link:** [https://doi.org/10.1002/adma.202413073](https://doi.org/10.1002/adma.202413073)  
 
 
 
@@ -918,38 +902,6 @@ This page was generated automatically.
 
 ---
 
-### Size Confinement Strategy Effect Enables Advanced Aqueous Zinc–Iodine Batteries
-
-**Authors:** Unknown  
-
-**Journal:** Advanced Energy Materials  
-
-**Published Date:** 2024-11  
-
-**DOI:** [10.1002/aenm.202402846](https://doi.org/10.1002/aenm.202402846)  
-
-**Citation Link:** [https://doi.org/10.1002/aenm.202402846](https://doi.org/10.1002/aenm.202402846)  
-
-
-
----
-
-### Optimizing entropy-stabilized synthesis kinetics to modulate the oxygen evolution mechanism
-
-**Authors:** Zeshuo Meng, Hengyue Xu, Zhengyan Du, Zijin Xu, Jian Xu, Wei Zhang, Xiaoying Hu, Haoteng Sun, Hongwei Tian, Jingsan Xu, Weitao Zheng, Sheng Dai  
-
-**Journal:** Materials Today  
-
-**Published Date:** 2024-11  
-
-**DOI:** [10.1016/j.mattod.2024.08.014](https://doi.org/10.1016/j.mattod.2024.08.014)  
-
-**Citation Link:** [https://doi.org/10.1016/j.mattod.2024.08.014](https://doi.org/10.1016/j.mattod.2024.08.014)  
-
-
-
----
-
 ### Tunable Mesoporous Porphyrin‐Based Conjugated Polymer Capable of Boosting Four‐Electron Zn‐I2 Batteries
 
 **Authors:** Yujie Xia, Wenda Li, Hengyue Xu, Facai Wei, Shanzhe Ke, Hao Chen, Hongyi Zhang, Gaijuan Guo, Liguo Ma, Jingfeng Wang, Shaohua Liu  
@@ -990,7 +942,7 @@ This page was generated automatically.
 
 **Published Date:** 2024-10-21  
 
-**DOI:** [10.1021/acs.inorgchem.4c02375](https://doi.org/10.1021/acs.inorgchem.4c02375)  
+**DOI:** [10.1021/acs.inorgchem.4c02375.s001](https://doi.org/10.1021/acs.inorgchem.4c02375.s001)  
 
 **Citation Link:** [https://doi.org/10.1021/acs.inorgchem.4c02375](https://doi.org/10.1021/acs.inorgchem.4c02375)  
 
@@ -1014,17 +966,49 @@ This page was generated automatically.
 
 ---
 
-### Vanadium Single Atoms Embedded in MoS2 Enabled Gut‐Brain Axis Neurotransmitter Detection at pM Levels
+### Optimizing entropy-stabilized synthesis kinetics to modulate the oxygen evolution mechanism
 
 **Authors:** Unknown  
 
-**Journal:** Small  
+**Journal:** Materials Today  
 
 **Published Date:** 2024-09  
 
-**DOI:** [10.1002/smll.202307410](https://doi.org/10.1002/smll.202307410)  
+**DOI:** [10.1016/j.mattod.2024.08.014](https://doi.org/10.1016/j.mattod.2024.08.014)  
 
-**Citation Link:** [https://doi.org/10.1002/smll.202307410](https://doi.org/10.1002/smll.202307410)  
+**Citation Link:** [https://doi.org/10.1016/j.mattod.2024.08.014](https://doi.org/10.1016/j.mattod.2024.08.014)  
+
+
+
+---
+
+### Synergistic Bulk and Surface Engineering for Expeditious and Durable Reversible Protonic Ceramic Electrochemical Cells Air Electrode
+
+**Authors:** Unknown  
+
+**Journal:** Advanced Materials  
+
+**Published Date:** 2024-08  
+
+**DOI:** [10.1002/adma.202403998](https://doi.org/10.1002/adma.202403998)  
+
+**Citation Link:** [https://doi.org/10.1002/adma.202403998](https://doi.org/10.1002/adma.202403998)  
+
+
+
+---
+
+### Design principle and synthetic strategy for metal-organic framework composites
+
+**Authors:** Unknown  
+
+**Journal:** Composites Communications  
+
+**Published Date:** 2024-06  
+
+**DOI:** [10.1016/j.coco.2024.101933](https://doi.org/10.1016/j.coco.2024.101933)  
+
+**Citation Link:** [https://doi.org/10.1016/j.coco.2024.101933](https://doi.org/10.1016/j.coco.2024.101933)  
 
 
 
@@ -1094,33 +1078,33 @@ This page was generated automatically.
 
 ---
 
-### Interfacial electron interactions governed photoactivity and selectivity evolution of carbon dioxide photoreduction with spinel cobalt oxide based hollow hetero-nanocubes
+### Cobalt Single‐Atom Reverse Hydrogen Spillover for Efficient Electrochemical Water Dissociation and Dechlorination
 
 **Authors:** Unknown  
 
-**Journal:** Applied Catalysis B: Environmental  
+**Journal:** Angewandte Chemie  
 
-**Published Date:** 2024-05  
+**Published Date:** 2024-05-06  
 
-**DOI:** [10.1016/j.apcatb.2024.123705](https://doi.org/10.1016/j.apcatb.2024.123705)  
+**DOI:** [10.1002/ange.202401386](https://doi.org/10.1002/ange.202401386)  
 
-**Citation Link:** [https://doi.org/10.1016/j.apcatb.2024.123705](https://doi.org/10.1016/j.apcatb.2024.123705)  
+**Citation Link:** [https://doi.org/10.1002/ange.202401386](https://doi.org/10.1002/ange.202401386)  
 
 
 
 ---
 
-### 2D Mesoporous Naphthalene‐Based Conductive Heteroarchitectures toward Long‐Life, High‐Capacity Zinc‐Iodine Batteries
+### How alginate lyase produces quasi-monodisperse oligosaccharides: A normal-mode-based docking and molecular dynamics simulation study
 
 **Authors:** Unknown  
 
-**Journal:** Advanced Functional Materials  
+**Journal:** Carbohydrate Research  
 
-**Published Date:** 2024-01  
+**Published Date:** 2024-02  
 
-**DOI:** [10.1002/adfm.202310693](https://doi.org/10.1002/adfm.202310693)  
+**DOI:** [10.1016/j.carres.2024.109022](https://doi.org/10.1016/j.carres.2024.109022)  
 
-**Citation Link:** [https://doi.org/10.1002/adfm.202310693](https://doi.org/10.1002/adfm.202310693)  
+**Citation Link:** [https://doi.org/10.1016/j.carres.2024.109022](https://doi.org/10.1016/j.carres.2024.109022)  
 
 
 
@@ -1137,6 +1121,22 @@ This page was generated automatically.
 **DOI:** [10.1039/d4ta01848f](https://doi.org/10.1039/d4ta01848f)  
 
 **Citation Link:** [https://doi.org/10.1039/d4ta01848f](https://doi.org/10.1039/d4ta01848f)  
+
+
+
+---
+
+### Theoretical Design of Core–Shell 3d-Metal Nanoclusters for Efficient Hydrogen-Evolving Reaction
+
+**Authors:** Hengyue Xu, Jonic Zhehao Zhu, Changhong Zou, Fupeng Zhang, Dengming Ming, Daqin Guan, Lan Ma  
+
+**Journal:** Energy & Fuels  
+
+**Published Date:** 2023-9-28  
+
+**DOI:** [10.1021/acs.energyfuels.3c02448](https://doi.org/10.1021/acs.energyfuels.3c02448)  
+
+**Citation Link:** [https://doi.org/10.1021/acs.energyfuels.3c02448](https://doi.org/10.1021/acs.energyfuels.3c02448)  
 
 
 
@@ -1177,22 +1177,6 @@ This page was generated automatically.
 
 ---
 
-### Tuning electron delocalization of hydrogen-bonded organic framework cathode for high-performance zinc-organic batteries
-
-**Authors:** Wenda Li, Hengyue Xu, Hongyi Zhang, Facai Wei, Lingyan Huang, Shanzhe Ke, Jianwei Fu, Chengbin Jing, Jiangong Cheng, Shaohua Liu  
-
-**Journal:** Nature Communications  
-
-**Published Date:** 2023-8-28  
-
-**DOI:** [10.1038/s41467-023-40969-5](https://doi.org/10.1038/s41467-023-40969-5)  
-
-**Citation Link:** [https://doi.org/10.1038/s41467-023-40969-5](https://doi.org/10.1038/s41467-023-40969-5)  
-
-
-
----
-
 ### Simultaneously mastering operando strain and reconstruction effects via phase-segregation strategy for enhanced oxygen-evolving electrocatalysis
 
 **Authors:** Daqin Guan, Chenliang Shi, Hengyue Xu, Yuxing Gu, Jian Zhong, Yuchen Sha, Zhiwei Hu, Meng Ni, Zongping Shao  
@@ -1204,22 +1188,6 @@ This page was generated automatically.
 **DOI:** [10.1016/j.jechem.2023.03.033](https://doi.org/10.1016/j.jechem.2023.03.033)  
 
 **Citation Link:** [https://doi.org/10.1016/j.jechem.2023.03.033](https://doi.org/10.1016/j.jechem.2023.03.033)  
-
-
-
----
-
-### Quasi‐Topological Intercalation Mechanism of Bi0.67NbS2 Enabling 100 C Fast‐Charging for Sodium‐Ion Batteries
-
-**Authors:** Zhuoran Lv, Hengyue Xu, Wenjing Xu, Baixin Peng, Chendong Zhao, Miao Xie, Ximeng Lv, Yusha Gao, Keyan Hu, Yuqiang Fang, Wujie Dong, Fuqiang Huang  
-
-**Journal:** Advanced Energy Materials  
-
-**Published Date:** 2023-5-17  
-
-**DOI:** [10.1002/aenm.202300790](https://doi.org/10.1002/aenm.202300790)  
-
-**Citation Link:** [https://doi.org/10.1002/aenm.202300790](https://doi.org/10.1002/aenm.202300790)  
 
 
 
@@ -1273,25 +1241,9 @@ This page was generated automatically.
 
 ---
 
-### Theoretical Design of Core–Shell 3d-Metal Nanoclusters for Efficient Hydrogen-Evolving Reaction
-
-**Authors:** Unknown  
-
-**Journal:** Energy & Fuels  
-
-**Published Date:** 2023-11-02  
-
-**DOI:** [10.1021/acs.energyfuels.3c02448](https://doi.org/10.1021/acs.energyfuels.3c02448)  
-
-**Citation Link:** [https://doi.org/10.1021/acs.energyfuels.3c02448](https://doi.org/10.1021/acs.energyfuels.3c02448)  
-
-
-
----
-
 ### Detection and treatment of biofilm-induced periodontitis by histidine-doped FeSN nanozyme with ultra-high peroxidase-like activity
 
-**Authors:** Unknown  
+**Authors:** Bowen Shen, Lei Yang, Hengyue Xu, Yangheng Zhang, Dengming Ming, Liying Zhu, Yuxian Wang, Ling Jiang  
 
 **Journal:** Journal of Colloid and Interface Science  
 
@@ -1316,6 +1268,22 @@ This page was generated automatically.
 **DOI:** [10.1021/acsnano.3c07868](https://doi.org/10.1021/acsnano.3c07868)  
 
 **Citation Link:** [https://doi.org/10.1021/acsnano.3c07868](https://doi.org/10.1021/acsnano.3c07868)  
+
+
+
+---
+
+### 2D Mesoporous Naphthalene‐Based Conductive Heteroarchitectures toward Long‐Life, High‐Capacity Zinc‐Iodine Batteries
+
+**Authors:** Facai Wei, Tingting Zhang, Hengyue Xu, Yonghui Peng, Haitao Guo, Yuexi Wang, Shaojian Guan, Jianwei Fu, Chengbin Jing, Jiangong Cheng, Shaohua Liu  
+
+**Journal:** Advanced Functional Materials  
+
+**Published Date:** 2023-10-25  
+
+**DOI:** [10.1002/adfm.202310693](https://doi.org/10.1002/adfm.202310693)  
+
+**Citation Link:** [https://doi.org/10.1002/adfm.202310693](https://doi.org/10.1002/adfm.202310693)  
 
 
 
@@ -1348,6 +1316,38 @@ This page was generated automatically.
 **DOI:** [10.1002/smll.202206750](https://doi.org/10.1002/smll.202206750)  
 
 **Citation Link:** [https://doi.org/10.1002/smll.202206750](https://doi.org/10.1002/smll.202206750)  
+
+
+
+---
+
+### Tuning electron delocalization of hydrogen-bonded organic framework cathode for high-performance zinc-organic batteries
+
+**Authors:** Unknown  
+
+**Journal:** Nature Communications  
+
+**Published Date:** 2023-08-28  
+
+**DOI:** [10.1038/s41467-023-40969-5](https://doi.org/10.1038/s41467-023-40969-5)  
+
+**Citation Link:** [https://doi.org/10.1038/s41467-023-40969-5](https://doi.org/10.1038/s41467-023-40969-5)  
+
+
+
+---
+
+### Quasi‐Topological Intercalation Mechanism of Bi0.67NbS2 Enabling 100 C Fast‐Charging for Sodium‐Ion Batteries
+
+**Authors:** Unknown  
+
+**Journal:** Advanced Energy Materials  
+
+**Published Date:** 2023-07  
+
+**DOI:** [10.1002/aenm.202300790](https://doi.org/10.1002/aenm.202300790)  
+
+**Citation Link:** [https://doi.org/10.1002/aenm.202300790](https://doi.org/10.1002/aenm.202300790)  
 
 
 
@@ -1401,20 +1401,6 @@ This page was generated automatically.
 
 ---
 
-### Bio-inspired heterogeneous Fe4S4 single-cluster catalyst for enhanced electrochemical CO2 reduction to CH4
-
-**Authors:** Hengyue Xu, Lan Ma  
-
-**Published Date:** 2022-9-2  
-
-**DOI:** [10.26434/chemrxiv-2022-dhj14](https://doi.org/10.26434/chemrxiv-2022-dhj14)  
-
-**Citation Link:** [https://doi.org/10.26434/chemrxiv-2022-dhj14](https://doi.org/10.26434/chemrxiv-2022-dhj14)  
-
-
-
----
-
 ### Combined Corner‐Sharing and Edge‐Sharing Networks in Hybrid Nanocomposite with Unusual Lattice‐Oxygen Activation for Efficient Water Oxidation
 
 **Authors:** Haijuan Zhang, Yongxin Gao, Hengyue Xu, Daqin Guan, Zhiwei Hu, Chao Jing, Yuchen Sha, Yuxing Gu, Yu‐Cheng Huang, Yu‐Chung Chang, Chi‐Wen Pao, Xiaomin Xu, Jyh‐Fu Lee, Yi‐Ying Chin, Hong‐Ji Lin, Chien‐Te Chen, Yuhui Chen, Youmin Guo, Meng Ni, Wei Zhou, Zongping Shao  
@@ -1431,45 +1417,13 @@ This page was generated automatically.
 
 ---
 
-### Tensile‐Strained RuO2 Loaded on Antimony‐Tin Oxide by Fast Quenching for Proton‐Exchange Membrane Water Electrolyzer
-
-**Authors:** Bing Huang, Hengyue Xu, Nannan Jiang, Minghao Wang, Jianren Huang, Lunhui Guan  
-
-**Journal:** Advanced Science  
-
-**Published Date:** 2022-6-19  
-
-**DOI:** [10.1002/advs.202201654](https://doi.org/10.1002/advs.202201654)  
-
-**Citation Link:** [https://doi.org/10.1002/advs.202201654](https://doi.org/10.1002/advs.202201654)  
-
-
-
----
-
-### A universal chemical-induced tensile strain tuning strategy to boost oxygen-evolving electrocatalysis on perovskite oxides
-
-**Authors:** Daqin Guan, Jian Zhong, Hengyue Xu, Yu-Cheng Huang, Zhiwei Hu, Bin Chen, Yuan Zhang, Meng Ni, Xiaomin Xu, Wei Zhou, Zongping Shao  
-
-**Journal:** Applied Physics Reviews  
-
-**Published Date:** 2022-3-1  
-
-**DOI:** [10.1063/5.0083059](https://doi.org/10.1063/5.0083059)  
-
-**Citation Link:** [https://doi.org/10.1063/5.0083059](https://doi.org/10.1063/5.0083059)  
-
-
-
----
-
 ### Embedding Atomically Dispersed Iron Sites in Nitrogen‐Doped Carbon Frameworks‐Wrapped Silicon Suboxide for Superior Lithium Storage
 
-**Authors:** Xiaotian Guo, Hengyue Xu, Wenting Li, Yangyi Liu, Yuxin Shi, Qing Li, Huan Pang  
+**Authors:** Unknown  
 
 **Journal:** Advanced Science  
 
-**Published Date:** 2022-12-5  
+**Published Date:** 2022-12-05  
 
 **DOI:** [10.1002/advs.202206084](https://doi.org/10.1002/advs.202206084)  
 
@@ -1503,7 +1457,7 @@ This page was generated automatically.
 
 **Published Date:** 2022-11-16  
 
-**DOI:** [10.1021/acsami.2c14041.s001](https://doi.org/10.1021/acsami.2c14041.s001)  
+**DOI:** [10.1021/acsami.2c14041](https://doi.org/10.1021/acsami.2c14041)  
 
 **Citation Link:** [https://doi.org/10.1021/acsami.2c14041](https://doi.org/10.1021/acsami.2c14041)  
 
@@ -1511,9 +1465,83 @@ This page was generated automatically.
 
 ---
 
+### Bio-inspired heterogeneous Fe4S4 single-cluster catalyst for enhanced electrochemical CO2 reduction to CH4
+
+**Authors:** Unknown  
+
+**Published Date:** 2022-09-02  
+
+**DOI:** [10.26434/chemrxiv-2022-dhj14](https://doi.org/10.26434/chemrxiv-2022-dhj14)  
+
+**Citation Link:** [https://doi.org/10.26434/chemrxiv-2022-dhj14](https://doi.org/10.26434/chemrxiv-2022-dhj14)  
+
+
+
+---
+
+### Tensile‐Strained RuO2 Loaded on Antimony‐Tin Oxide by Fast Quenching for Proton‐Exchange Membrane Water Electrolyzer
+
+**Authors:** Unknown  
+
+**Journal:** Advanced Science  
+
+**Published Date:** 2022-08  
+
+**DOI:** [10.1002/advs.202201654](https://doi.org/10.1002/advs.202201654)  
+
+**Citation Link:** [https://doi.org/10.1002/advs.202201654](https://doi.org/10.1002/advs.202201654)  
+
+
+
+---
+
+### A universal chemical-induced tensile strain tuning strategy to boost oxygen-evolving electrocatalysis on perovskite oxides
+
+**Authors:** Unknown  
+
+**Journal:** Applied Physics Reviews  
+
+**Published Date:** 2022-03  
+
+**DOI:** [10.1063/5.0083059](https://doi.org/10.1063/5.0083059)  
+
+**Citation Link:** [https://doi.org/10.1063/5.0083059](https://doi.org/10.1063/5.0083059)  
+
+
+
+---
+
+### Hydrogen evolution reaction on Co-Ni core-shell nanoclusters in different sizes: A DFT investigation from geometric structures to electronic structures
+
+**Authors:** Hengyue Xu  
+
+**Published Date:** 2021-8-3  
+
+**DOI:** [10.26434/chemrxiv-2021-4d5f4](https://doi.org/10.26434/chemrxiv-2021-4d5f4)  
+
+**Citation Link:** [https://doi.org/10.26434/chemrxiv-2021-4d5f4-v2](https://doi.org/10.26434/chemrxiv-2021-4d5f4-v2)  
+
+
+
+---
+
+### Hydrogen evolution reaction on Co-Ni core-shell nanoclusters in different sizes: A DFT investigation from geometric structures to electronic structures
+
+**Authors:** Hengyue Xu  
+
+**Published Date:** 2021-8-3  
+
+**DOI:** [10.26434/chemrxiv-2021-4d5f4](https://doi.org/10.26434/chemrxiv-2021-4d5f4)  
+
+**Citation Link:** [https://doi.org/10.26434/chemrxiv-2021-4d5f4](https://doi.org/10.26434/chemrxiv-2021-4d5f4)  
+
+
+
+---
+
 ### Exceptional electrostatic phenomenon in ultrathin nanorods: the terminal σ‑hole
 
-**Authors:** Hengyue Xu, Daqin Guan  
+**Authors:** Unknown  
 
 **Published Date:** 2021-11-26  
 
@@ -1525,29 +1553,17 @@ This page was generated automatically.
 
 ---
 
-### Hydrogen evolution reaction on Co-Ni core-shell nanoclusters in different sizes: A DFT investigation from geometric structures to electronic structures
+### The adaptability of H9N2 avian influenza A virus to humans: A comparative docking simulation study
 
-**Authors:** Unknown  
+**Authors:** Hengyue Xu, Jiaqiang Qian, Yifan Song, Dengming Ming  
 
-**Published Date:** 2021-09-13  
+**Journal:** Biochemical and Biophysical Research Communications  
 
-**DOI:** [10.26434/chemrxiv-2021-4d5f4-v2](https://doi.org/10.26434/chemrxiv-2021-4d5f4-v2)  
+**Published Date:** 2020-5-26  
 
-**Citation Link:** [https://doi.org/10.26434/chemrxiv-2021-4d5f4-v2](https://doi.org/10.26434/chemrxiv-2021-4d5f4-v2)  
+**DOI:** [10.1101/2020.05.21.108233](https://doi.org/10.1101/2020.05.21.108233)  
 
-
-
----
-
-### Hydrogen evolution reaction on Co-Ni core-shell nanoclusters in different sizes: A DFT investigation from geometric structures to electronic structures
-
-**Authors:** Unknown  
-
-**Published Date:** 2021-08-03  
-
-**DOI:** [10.26434/chemrxiv-2021-4d5f4](https://doi.org/10.26434/chemrxiv-2021-4d5f4)  
-
-**Citation Link:** [https://doi.org/10.26434/chemrxiv-2021-4d5f4](https://doi.org/10.26434/chemrxiv-2021-4d5f4)  
+**Citation Link:** [https://doi.org/10.1016/j.bbrc.2020.06.065](https://doi.org/10.1016/j.bbrc.2020.06.065)  
 
 
 
@@ -1564,21 +1580,5 @@ This page was generated automatically.
 **DOI:** [10.1016/j.chemphys.2020.110953](https://doi.org/10.1016/j.chemphys.2020.110953)  
 
 **Citation Link:** [https://doi.org/10.1016/j.chemphys.2020.110953](https://doi.org/10.1016/j.chemphys.2020.110953)  
-
-
-
----
-
-### The adaptability of H9N2 avian influenza A virus to humans: A comparative docking simulation study
-
-**Authors:** Unknown  
-
-**Journal:** Biochemical and Biophysical Research Communications  
-
-**Published Date:** 2020-09  
-
-**DOI:** [10.1016/j.bbrc.2020.06.065](https://doi.org/10.1016/j.bbrc.2020.06.065)  
-
-**Citation Link:** [https://doi.org/10.1016/j.bbrc.2020.06.065](https://doi.org/10.1016/j.bbrc.2020.06.065)  
 
 
