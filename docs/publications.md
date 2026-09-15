@@ -180,6 +180,22 @@ This page was generated automatically.
 
 ---
 
+### B-active-center-driven photocatalytic coupling of CO2 and N2 toward urea synthesis on penta-B2C
+
+**Authors:** Pengfei Liu, Hui Peng, Junjie Li, Yanshu Fang, Pei Fan, Junying Zhang, Hengyue Xu  
+
+**Journal:** Nanoscale  
+
+**Published Date:** 2026  
+
+**DOI:** [10.1039/d6nr02090a](https://doi.org/10.1039/d6nr02090a)  
+
+**Citation Link:** [https://doi.org/10.1039/D6NR02090A](https://doi.org/10.1039/D6NR02090A)  
+
+
+
+---
+
 ### Electrochemical Reconstruction of Defect Engineered MOFs: A Dynamic Frontier in Electrochemistry
 
 **Authors:** Tingting Chen, Zhicheng Tan, Hengyue Xu, Jiaqi Zhang, Long Chen, Zhongjie Huang, Huan Pang  
@@ -271,22 +287,6 @@ This page was generated automatically.
 **DOI:** [10.1002/adma.202514035](https://doi.org/10.1002/adma.202514035)  
 
 **Citation Link:** [https://doi.org/10.1002/ADMA.202514035](https://doi.org/10.1002/ADMA.202514035)  
-
-
-
----
-
-### Balanced Iodophilicity and Solvophilicity Unlocks Fast Iodine Conversion Chemistry
-
-**Authors:** Tao Xiao, Jin-Lin Yang, Ruo Jie Xu, Hengyue Xu, Huan Liu, Jia Li, Haoming Bao, Xiaoyan Jin, Seong-Ju Hwang, Zhe Wang, Hong Jin Fan  
-
-**Journal:** Journal of the American Chemical Society  
-
-**Published Date:** 2025-8-1  
-
-**DOI:** [10.1021/jacs.5c05786](https://doi.org/10.1021/jacs.5c05786)  
-
-**Citation Link:** [https://doi.org/10.1021/jacs.5c05786](https://doi.org/10.1021/jacs.5c05786)  
 
 
 
@@ -644,6 +644,22 @@ This page was generated automatically.
 
 ---
 
+### Balanced Iodophilicity and Solvophilicity Unlocks Fast Iodine Conversion Chemistry
+
+**Authors:** Unknown  
+
+**Journal:** Journal of the American Chemical Society  
+
+**Published Date:** 2025-08-13  
+
+**DOI:** [10.1021/jacs.5c05786.s001](https://doi.org/10.1021/jacs.5c05786.s001)  
+
+**Citation Link:** [https://doi.org/10.1021/jacs.5c05786](https://doi.org/10.1021/jacs.5c05786)  
+
+
+
+---
+
 ### Regulation of Rh Single-Atom Coordination for Enhanced Reverse Hydrogen Spillover and Efficient Electrochemical Dechlorination
 
 **Authors:** Unknown  
@@ -956,7 +972,7 @@ This page was generated automatically.
 
 **Published Date:** 2024-12-13  
 
-**DOI:** [10.1002/ange.202417618](https://doi.org/10.1002/ange.202417618)  
+**DOI:** [10.1002/anie.202417618](https://doi.org/10.1002/anie.202417618)  
 
 **Citation Link:** [https://doi.org/10.1002/anie.202417618](https://doi.org/10.1002/anie.202417618)  
 
@@ -972,7 +988,7 @@ This page was generated automatically.
 
 **Published Date:** 2024-12-13  
 
-**DOI:** [10.1002/ange.202417618](https://doi.org/10.1002/ange.202417618)  
+**DOI:** [10.1002/anie.202417618](https://doi.org/10.1002/anie.202417618)  
 
 **Citation Link:** [https://doi.org/10.1002/ange.202417618](https://doi.org/10.1002/ange.202417618)  
 
