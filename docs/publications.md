@@ -210,6 +210,22 @@ This page was generated automatically.
 
 ---
 
+### Electrochemical Reconstruction of Defect Engineered MOFs: A Dynamic Frontier in Electrochemistry
+
+**Authors:** Unknown  
+
+**Journal:** Advanced Functional Materials  
+
+**Published Date:** 2026-02  
+
+**DOI:** [10.1002/adfm.202517710](https://doi.org/10.1002/adfm.202517710)  
+
+**Citation Link:** [https://doi.org/10.1002/adfm.202517710](https://doi.org/10.1002/adfm.202517710)  
+
+
+
+---
+
 ### Bio-Inspired Curvature Engineering across the Periodic Table Tunes Hydrogen Adsorption in Single-Atom Catalysts
 
 **Authors:** Unknown  
@@ -237,22 +253,6 @@ This page was generated automatically.
 **DOI:** [10.1039/d6nr02090a](https://doi.org/10.1039/d6nr02090a)  
 
 **Citation Link:** [https://doi.org/10.1039/D6NR02090A](https://doi.org/10.1039/D6NR02090A)  
-
-
-
----
-
-### Electrochemical Reconstruction of Defect Engineered MOFs: A Dynamic Frontier in Electrochemistry
-
-**Authors:** Tingting Chen, Zhicheng Tan, Hengyue Xu, Jiaqi Zhang, Long Chen, Zhongjie Huang, Huan Pang  
-
-**Journal:** Advanced Functional Materials  
-
-**Published Date:** 2025-9-30  
-
-**DOI:** [10.1002/adfm.202517710](https://doi.org/10.1002/adfm.202517710)  
-
-**Citation Link:** [https://doi.org/10.1002/adfm.202517710](https://doi.org/10.1002/adfm.202517710)  
 
 
 
@@ -338,22 +338,6 @@ This page was generated automatically.
 
 ---
 
-### Supramolecular nanocrystalline membranes with well-aligned subnanochannels for enhanced reverse osmosis desalination
-
-**Authors:** Gang Lu, Wentao Shang, Xinyao Ma, Hengyue Xu, Hubao A, Jiawei Sun, Xiaolu Li, Mingyi Jia, Shuang Lu, Jun Wu, Xi Chen, Shensheng Chen, Jun Fan, Alicia Kyoungjin An  
-
-**Journal:** Nature Communications  
-
-**Published Date:** 2025-7-8  
-
-**DOI:** [10.1038/s41467-025-61352-6](https://doi.org/10.1038/s41467-025-61352-6)  
-
-**Citation Link:** [https://doi.org/10.1038/s41467-025-61352-6](https://doi.org/10.1038/s41467-025-61352-6)  
-
-
-
----
-
 ### Deciphering SN2-Type Nucleophilic Substitution via Halogen-Free Intermediates for High-Energy Zinc–Iodine Batteries
 
 **Authors:** Zhehan Yi, Hengyue Xu, Jin-Lin Yang, Jia Li, Tao Xiao, Hao Chen, Cheng Jiang, Hong Li, Seok Woo Lee, Hong Jin Fan  
@@ -397,22 +381,6 @@ This page was generated automatically.
 **DOI:** [10.1021/acsnano.5c05834](https://doi.org/10.1021/acsnano.5c05834)  
 
 **Citation Link:** [https://doi.org/10.1021/acsnano.5c05834](https://doi.org/10.1021/acsnano.5c05834)  
-
-
-
----
-
-### Biomimetic Geminal-Atom Catalysts Empowered by Jahn–Teller Distortion: A Theoretical Study for Efficient PET Degradation
-
-**Authors:** Hengyue Xu, Zhi-Wu Yu  
-
-**Journal:** The Journal of Physical Chemistry Letters  
-
-**Published Date:** 2025-6-25  
-
-**DOI:** [10.1021/acs.jpclett.5c01299](https://doi.org/10.1021/acs.jpclett.5c01299)  
-
-**Citation Link:** [https://doi.org/10.1021/acs.jpclett.5c01299](https://doi.org/10.1021/acs.jpclett.5c01299)  
 
 
 
@@ -538,7 +506,7 @@ This page was generated automatically.
 
 **Published Date:** 2025-11-26  
 
-**DOI:** [10.1021/jacs.5c18184.s001](https://doi.org/10.1021/jacs.5c18184.s001)  
+**DOI:** [10.1021/jacs.5c18184](https://doi.org/10.1021/jacs.5c18184)  
 
 **Citation Link:** [https://doi.org/10.1021/jacs.5c18184](https://doi.org/10.1021/jacs.5c18184)  
 
@@ -674,6 +642,38 @@ This page was generated automatically.
 
 ---
 
+### Supramolecular nanocrystalline membranes with well-aligned subnanochannels for enhanced reverse osmosis desalination
+
+**Authors:** Unknown  
+
+**Journal:** Nature Communications  
+
+**Published Date:** 2025-07-08  
+
+**DOI:** [10.1038/s41467-025-61352-6](https://doi.org/10.1038/s41467-025-61352-6)  
+
+**Citation Link:** [https://doi.org/10.1038/s41467-025-61352-6](https://doi.org/10.1038/s41467-025-61352-6)  
+
+
+
+---
+
+### Biomimetic Geminal-Atom Catalysts Empowered by Jahn–Teller Distortion: A Theoretical Study for Efficient PET Degradation
+
+**Authors:** Unknown  
+
+**Journal:** The Journal of Physical Chemistry Letters  
+
+**Published Date:** 2025-07-03  
+
+**DOI:** [10.1021/acs.jpclett.5c01299](https://doi.org/10.1021/acs.jpclett.5c01299)  
+
+**Citation Link:** [https://doi.org/10.1021/acs.jpclett.5c01299](https://doi.org/10.1021/acs.jpclett.5c01299)  
+
+
+
+---
+
 ### MOF Derived Phosphide Nanocubes with Internal Heterojunction: A Study Powered by Single Entity Electrochemistry
 
 **Authors:** Unknown  
@@ -714,7 +714,7 @@ This page was generated automatically.
 
 **Published Date:** 2025  
 
-**DOI:** [10.1021/jacs.5c18184.s001](https://doi.org/10.1021/jacs.5c18184.s001)  
+**DOI:** [10.1021/JACS.5C18184](https://doi.org/10.1021/JACS.5C18184)  
 
 **Citation Link:** [https://doi.org/10.1021/JACS.5C18184](https://doi.org/10.1021/JACS.5C18184)  
 
@@ -724,13 +724,13 @@ This page was generated automatically.
 
 ### Interfacial supramolecular interactions regulated oligomer networking into robust sub-nanochannels for efficient osmotic energy conversion
 
-**Authors:** Gang Lu, Hubao A, Hengyue Xu, Yan Zhao, Yuanyuan Zhao, Huacheng Zhang, Raf Dewil, Bart Van der Bruggen, Shuang Zheng  
+**Authors:** Unknown  
 
 **Journal:** Energy & Environmental Science  
 
 **Published Date:** 2025  
 
-**DOI:** [10.1039/d5ee03350k](https://doi.org/10.1039/d5ee03350k)  
+**DOI:** [10.1039/D5EE03350K](https://doi.org/10.1039/D5EE03350K)  
 
 **Citation Link:** [https://doi.org/10.1039/D5EE03350K](https://doi.org/10.1039/D5EE03350K)  
 
@@ -813,22 +813,6 @@ This page was generated automatically.
 **DOI:** [10.1002/adma.202408963](https://doi.org/10.1002/adma.202408963)  
 
 **Citation Link:** [https://doi.org/10.1002/adma.202408963](https://doi.org/10.1002/adma.202408963)  
-
-
-
----
-
-### Confining Iodine into Metal‐Organic Framework Derived Metal‐Nitrogen‐Carbon for Long‐Life Aqueous Zinc‐Iodine Batteries
-
-**Authors:** Xiaotian Guo, Hengyue Xu, Yijian Tang, Zhangbin Yang, Fei Dou, Wenting Li, Qing Li, Huan Pang  
-
-**Journal:** Advanced Materials  
-
-**Published Date:** 2024-7-31  
-
-**DOI:** [10.1002/adma.202408317](https://doi.org/10.1002/adma.202408317)  
-
-**Citation Link:** [https://doi.org/10.1002/adma.202408317](https://doi.org/10.1002/adma.202408317)  
 
 
 
@@ -994,22 +978,6 @@ This page was generated automatically.
 
 ---
 
-### Tuning synergy between nickel and iron in Ruddlesden–Popper perovskites through controllable crystal dimensionalities towards enhanced oxygen‐evolving activity and stability
-
-**Authors:** Haijuan Zhang, Daqin Guan, Yuxing Gu, Hengyue Xu, Chunchang Wang, Zongping Shao, Youmin Guo  
-
-**Journal:** Carbon Energy  
-
-**Published Date:** 2024-2-8  
-
-**DOI:** [10.1002/cey2.465](https://doi.org/10.1002/cey2.465)  
-
-**Citation Link:** [https://doi.org/10.1002/cey2.465](https://doi.org/10.1002/cey2.465)  
-
-
-
----
-
 ### How alginate lyase produces quasi-monodisperse oligosaccharides: A normal-mode-based docking and molecular dynamics simulation study
 
 **Authors:** Hengyue Xu, Qi Gao, Lu Li, Ting Su, Dengming Ming  
@@ -1165,6 +1133,38 @@ This page was generated automatically.
 **DOI:** [10.1021/acs.inorgchem.4c02375.s001](https://doi.org/10.1021/acs.inorgchem.4c02375.s001)  
 
 **Citation Link:** [https://doi.org/10.1021/acs.inorgchem.4c02375](https://doi.org/10.1021/acs.inorgchem.4c02375)  
+
+
+
+---
+
+### Confining Iodine into Metal‐Organic Framework Derived Metal‐Nitrogen‐Carbon for Long‐Life Aqueous Zinc‐Iodine Batteries
+
+**Authors:** Unknown  
+
+**Journal:** Advanced Materials  
+
+**Published Date:** 2024-07-31  
+
+**DOI:** [10.1002/adma.202408317](https://doi.org/10.1002/adma.202408317)  
+
+**Citation Link:** [https://doi.org/10.1002/adma.202408317](https://doi.org/10.1002/adma.202408317)  
+
+
+
+---
+
+### Tuning synergy between nickel and iron in Ruddlesden–Popper perovskites through controllable crystal dimensionalities towards enhanced oxygen‐evolving activity and stability
+
+**Authors:** Unknown  
+
+**Journal:** Carbon Energy  
+
+**Published Date:** 2024-06  
+
+**DOI:** [10.1002/cey2.465](https://doi.org/10.1002/cey2.465)  
+
+**Citation Link:** [https://doi.org/10.1002/cey2.465](https://doi.org/10.1002/cey2.465)  
 
 
 
@@ -1349,22 +1349,6 @@ This page was generated automatically.
 
 ---
 
-### Mesoporous Poly(3,4-ethylenedioxythiophene):Poly(styrenesulfonate) as Efficient Iodine Host for High-Performance Zinc–Iodine Batteries
-
-**Authors:** Facai Wei, Hengyue Xu, Tingting Zhang, Wenda Li, Lingyan Huang, Yonghui Peng, Haitao Guo, Yuexi Wang, Shaojian Guan, Jianwei Fu, Chengbin Jing, Jiangong Cheng, Shaohua Liu  
-
-**Journal:** ACS Nano  
-
-**Published Date:** 2023-10-5  
-
-**DOI:** [10.1021/acsnano.3c07868](https://doi.org/10.1021/acsnano.3c07868)  
-
-**Citation Link:** [https://doi.org/10.1021/acsnano.3c07868](https://doi.org/10.1021/acsnano.3c07868)  
-
-
-
----
-
 ### 2D Mesoporous Naphthalene‐Based Conductive Heteroarchitectures toward Long‐Life, High‐Capacity Zinc‐Iodine Batteries
 
 **Authors:** Facai Wei, Tingting Zhang, Hengyue Xu, Yonghui Peng, Haitao Guo, Yuexi Wang, Shaojian Guan, Jianwei Fu, Chengbin Jing, Jiangong Cheng, Shaohua Liu  
@@ -1376,6 +1360,22 @@ This page was generated automatically.
 **DOI:** [10.1002/adfm.202310693](https://doi.org/10.1002/adfm.202310693)  
 
 **Citation Link:** [https://doi.org/10.1002/adfm.202310693](https://doi.org/10.1002/adfm.202310693)  
+
+
+
+---
+
+### Mesoporous Poly(3,4-ethylenedioxythiophene):Poly(styrenesulfonate) as Efficient Iodine Host for High-Performance Zinc–Iodine Batteries
+
+**Authors:** Unknown  
+
+**Journal:** ACS Nano  
+
+**Published Date:** 2023-10-24  
+
+**DOI:** [10.1021/acsnano.3c07868](https://doi.org/10.1021/acsnano.3c07868)  
+
+**Citation Link:** [https://doi.org/10.1021/acsnano.3c07868](https://doi.org/10.1021/acsnano.3c07868)  
 
 
 
